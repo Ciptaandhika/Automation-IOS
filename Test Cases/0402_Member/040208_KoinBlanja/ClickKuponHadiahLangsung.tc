@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Hadiah Langsung</description>
+   <name>ClickKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcdf5772-be79-4f03-8a20-08b47d47e791</testCaseGuid>
+</TestCaseEntity>

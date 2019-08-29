@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap &quot;BELUM DIBACA&quot;</description>
+   <name>SwipeToLeft</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1f844dd-a1c7-4679-ab1d-b96f989e8011</testCaseGuid>
+</TestCaseEntity>

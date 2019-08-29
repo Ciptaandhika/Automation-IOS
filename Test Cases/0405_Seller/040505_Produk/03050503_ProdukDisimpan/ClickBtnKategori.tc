@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button kategori</description>
+   <name>ClickBtnKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b998de77-41d9-422b-803c-fad9b02da305</testCaseGuid>
+</TestCaseEntity>

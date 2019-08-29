@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Click on button 'Batal '</description>
+   <name>CancelWhileUploadPhotoThroughGaleri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>161f8f77-d6aa-4821-aceb-2c3ea31943f4</testCaseGuid>
+</TestCaseEntity>

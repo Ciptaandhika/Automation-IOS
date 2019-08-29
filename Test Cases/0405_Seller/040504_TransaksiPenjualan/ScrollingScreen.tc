@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Scoll up screen</description>
+   <name>ScrollingScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dff7dc01-be20-405a-9744-2d01e06b0651</testCaseGuid>
+</TestCaseEntity>

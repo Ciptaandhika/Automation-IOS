@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On Basic dashboard, click + button on 'Tambah Produk'</description>
+   <name>TapButtonTambahProdukBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eed4da46-2c51-4834-9b18-e76198f66588</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;1. If balance > 0 then the button will be able to show
+2. If balance = 0 then the button will not be able to show&quot;</description>
+   <name>VerifyTarikDanaDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d5f5768-91df-4615-bfc4-4e67c8cfe47b</testCaseGuid>
+</TestCaseEntity>

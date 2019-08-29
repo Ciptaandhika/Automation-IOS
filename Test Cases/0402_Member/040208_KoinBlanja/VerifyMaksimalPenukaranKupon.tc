@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify pop up maksimal penukaran kupon</description>
+   <name>VerifyMaksimalPenukaranKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdca7494-714a-413e-bd2f-bbf8e2cecc18</testCaseGuid>
+</TestCaseEntity>

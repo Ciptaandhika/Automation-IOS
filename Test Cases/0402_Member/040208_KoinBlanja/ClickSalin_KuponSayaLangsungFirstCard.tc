@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Salin button</description>
+   <name>ClickSalin_KuponSayaLangsungFirstCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45db78a9-9c69-4054-b091-b9a90e906a3e</testCaseGuid>
+</TestCaseEntity>

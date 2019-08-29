@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Tap Lokasi toko</description>
+   <name>TapButtonLokasiToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7112212-58f5-4f51-9733-d883ebde4e29</testCaseGuid>
+</TestCaseEntity>

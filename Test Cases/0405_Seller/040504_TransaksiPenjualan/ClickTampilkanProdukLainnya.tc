@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap Tampilkan Produk Lainnya</description>
+   <name>ClickTampilkanProdukLainnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3f5b98d-df4d-46ee-ac3b-3a06dcda2618</testCaseGuid>
+</TestCaseEntity>

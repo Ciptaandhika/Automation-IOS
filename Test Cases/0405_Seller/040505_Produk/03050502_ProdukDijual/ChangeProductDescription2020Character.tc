@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Enter product description</description>
+   <name>ChangeProductDescription2020Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa7f5672-3b09-43b2-89a2-2ae977538512</testCaseGuid>
+</TestCaseEntity>

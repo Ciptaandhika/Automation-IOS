@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure Show short description chat on list message on &quot;SEMUA&quot; tab</description>
+   <name>VerifyShortDescriptionChat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efd2ad05-801d-40ba-b36c-5d500658ecdc</testCaseGuid>
+</TestCaseEntity>

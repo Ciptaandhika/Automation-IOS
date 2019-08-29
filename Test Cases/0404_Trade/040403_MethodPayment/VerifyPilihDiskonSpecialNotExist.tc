@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that object has not been shown</description>
+   <name>VerifyPilihDiskonSpecialNotExist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7bbcba4b-7db6-4533-800e-33c9c776a877</testCaseGuid>
+</TestCaseEntity>

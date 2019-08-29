@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer can check details order on order list and order details, and sytem show payment information as 'Kartu Kredit Cicilan'</description>
+   <name>VerifyKartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc268c16-0321-4a09-b41d-5ac023b2e043</testCaseGuid>
+</TestCaseEntity>

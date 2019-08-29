@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Card Name</description>
+   <name>VerifyCardNameHistoryTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed33b9ed-7a3b-47d9-8552-d9642c3f4ab7</testCaseGuid>
+</TestCaseEntity>

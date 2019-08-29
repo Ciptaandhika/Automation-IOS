@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify button 'Simpan Produk' deactive</description>
+   <name>VerifyEditScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12117d10-4eee-4af8-b056-7d7d6c7d566e</testCaseGuid>
+</TestCaseEntity>

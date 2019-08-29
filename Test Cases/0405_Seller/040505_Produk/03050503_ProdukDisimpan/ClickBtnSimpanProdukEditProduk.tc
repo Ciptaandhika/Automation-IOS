@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn simpan produk</description>
+   <name>ClickBtnSimpanProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd52064f-43cd-42ad-bb08-2e68b1cdbd32</testCaseGuid>
+</TestCaseEntity>

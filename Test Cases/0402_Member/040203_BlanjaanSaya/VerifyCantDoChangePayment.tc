@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify
+- Payment name,
+ - VA Number,
+ - Payment amount,
+ - Expired date,
+ - Payment Guide</description>
+   <name>VerifyCantDoChangePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fdf9fbc-ae70-4b43-96f4-f9234d6bca74</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify the installment has been shown</description>
+   <name>VerifyTenor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9851cf4-551d-4cf1-82e8-08e02fa33407</testCaseGuid>
+</TestCaseEntity>

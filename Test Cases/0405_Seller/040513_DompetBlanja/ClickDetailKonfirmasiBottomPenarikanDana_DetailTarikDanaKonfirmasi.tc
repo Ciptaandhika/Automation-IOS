@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click No Pemesanan</description>
+   <name>ClickDetailKonfirmasiBottomPenarikanDana_DetailTarikDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0751821-8a61-4b13-b4b0-7e9b7d31eb7b</testCaseGuid>
+</TestCaseEntity>

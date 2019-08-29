@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify
+- Payment name,
+ - VA Number,
+ - Payment amount,
+ - Expired date,
+ - Payment Guide</description>
+   <name>VerifyBNIVAThankyouPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c13c06-4371-4179-a434-4d033e025c58</testCaseGuid>
+</TestCaseEntity>

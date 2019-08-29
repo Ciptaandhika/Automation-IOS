@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify detail hadiah wheter is show or not when Tukar button is clicked</description>
+   <name>VerifyDetailHadiah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caacec76-5388-461f-8ee0-c28aece94dd0</testCaseGuid>
+</TestCaseEntity>

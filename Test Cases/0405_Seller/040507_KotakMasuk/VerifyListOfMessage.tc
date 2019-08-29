@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.3 Ensure List of message displayed</description>
+   <name>VerifyListOfMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87445bbd-c75c-44e5-bf2a-a4dde641fb84</testCaseGuid>
+</TestCaseEntity>

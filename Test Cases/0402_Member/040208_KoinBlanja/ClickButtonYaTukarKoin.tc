@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Ya to redeem koin</description>
+   <name>ClickButtonYaTukarKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38f8b007-3669-438c-b9de-157deb94b48a</testCaseGuid>
+</TestCaseEntity>

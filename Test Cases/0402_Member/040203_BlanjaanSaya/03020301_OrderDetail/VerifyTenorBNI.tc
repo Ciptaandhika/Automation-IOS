@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On bottom line, system will display some installment info, such likes :
+- Tenor</description>
+   <name>VerifyTenorBNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afd01660-5816-4870-a542-6564455f46f1</testCaseGuid>
+</TestCaseEntity>

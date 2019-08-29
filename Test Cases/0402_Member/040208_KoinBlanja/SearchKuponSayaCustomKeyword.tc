@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search coupon by code</description>
+   <name>SearchKuponSayaCustomKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e654595f-6963-4fba-a8ed-ea5640d4afe1</testCaseGuid>
+   <variable>
+      <defaultValue>'a'</defaultValue>
+      <description></description>
+      <id>b3e42640-e521-480f-a125-f5d003f95d76</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

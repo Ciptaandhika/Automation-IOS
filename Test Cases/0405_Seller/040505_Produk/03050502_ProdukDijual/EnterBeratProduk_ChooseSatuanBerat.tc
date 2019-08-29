@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Enter 'berat produk' 
+4. Choose 'satuan berat'</description>
+   <name>EnterBeratProduk_ChooseSatuanBerat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28ace90f-13ed-4637-b190-f5a1663d6d60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Cara Mendapatkan Koin Blanja</description>
+   <name>ClickCaraMendapatkanKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e43a823-a26f-433a-a20a-400addf7b62c</testCaseGuid>
+</TestCaseEntity>

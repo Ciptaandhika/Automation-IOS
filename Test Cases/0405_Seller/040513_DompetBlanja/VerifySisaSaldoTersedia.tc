@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Sisa Saldo</description>
+   <name>VerifySisaSaldoTersedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5d1c16d-c8a7-4dc7-8f0a-27185ccd1554</testCaseGuid>
+</TestCaseEntity>

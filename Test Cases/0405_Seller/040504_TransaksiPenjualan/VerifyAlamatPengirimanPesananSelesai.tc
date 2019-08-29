@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Verify Alamat pengiriman</description>
+   <name>VerifyAlamatPengirimanPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51e16aac-9a6b-4e90-9b1e-43bc53b42144</testCaseGuid>
+</TestCaseEntity>

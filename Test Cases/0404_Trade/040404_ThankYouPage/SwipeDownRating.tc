@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Swipe Down For Closing Rate</description>
+   <name>SwipeDownRating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bd00419-6a55-45d9-a6a3-bc989864a58e</testCaseGuid>
+</TestCaseEntity>

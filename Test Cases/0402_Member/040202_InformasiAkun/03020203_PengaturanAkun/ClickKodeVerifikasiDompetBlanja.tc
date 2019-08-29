@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap &quot;Kode Verifikasi&quot;</description>
+   <name>ClickKodeVerifikasiDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cd11b3c-fd2e-4ee3-b8d7-c5336e2859c2</testCaseGuid>
+</TestCaseEntity>

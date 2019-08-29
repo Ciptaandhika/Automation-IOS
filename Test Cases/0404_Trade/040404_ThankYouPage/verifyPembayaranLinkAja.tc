@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Metode LinkAja</description>
+   <name>verifyPembayaranLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da908bf9-df83-46d4-b861-43f68596f01a</testCaseGuid>
+</TestCaseEntity>

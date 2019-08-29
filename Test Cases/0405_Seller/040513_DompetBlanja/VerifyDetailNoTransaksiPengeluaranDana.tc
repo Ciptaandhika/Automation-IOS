@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see 'No Transaksi Pengeluaran Dana' in detail transaction VA'</description>
+   <name>VerifyDetailNoTransaksiPengeluaranDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d29a1ed9-8392-44ad-8145-eda54561bed1</testCaseGuid>
+</TestCaseEntity>

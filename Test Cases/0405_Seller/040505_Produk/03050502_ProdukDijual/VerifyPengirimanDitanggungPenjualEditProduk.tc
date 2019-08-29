@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6.2 System will display updated information of 'Pengiriman' such as:
+-Berat Pengiriman 1000gr
+-ditanggung penjual</description>
+   <name>VerifyPengirimanDitanggungPenjualEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fdfe9bd-435f-4137-9f01-67b5d67a0a2a</testCaseGuid>
+</TestCaseEntity>

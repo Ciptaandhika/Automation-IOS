@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Page Pemesanan</description>
+   <name>verifyPageKonfirmasiPemesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93421775-be00-4f5e-b3d8-8a8633a0ef39</testCaseGuid>
+</TestCaseEntity>

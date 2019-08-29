@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Delete the logistic name</description>
+   <name>ClearSearchJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2638d31-7eaa-49bb-b0d8-e14dd2dec000</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Beli Sekarang</description>
+   <name>tapBeliSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a992397d-04f3-4abf-bb84-18ebe786d71c</testCaseGuid>
+</TestCaseEntity>

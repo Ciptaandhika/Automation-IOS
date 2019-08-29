@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Payment Method BNI VA</description>
+   <name>VerifyPaymentMethodBNIVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9d99819-888e-4c2b-a750-14cd45a9e0e7</testCaseGuid>
+</TestCaseEntity>

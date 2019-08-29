@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see 'Waktu Pengajuan Aplikasi' in detail transaction VA' Dana Dari Transaksi</description>
+   <name>VerifyDetailWaktuTransaksiPemasukanDana_DanaDariTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a9e1145-eccb-4afc-a246-ad2376da898a</testCaseGuid>
+</TestCaseEntity>

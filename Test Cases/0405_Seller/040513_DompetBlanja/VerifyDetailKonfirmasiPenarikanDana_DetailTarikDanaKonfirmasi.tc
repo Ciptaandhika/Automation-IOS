@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify konfirmasi button disabled</description>
+   <name>VerifyDetailKonfirmasiPenarikanDana_DetailTarikDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3beec441-b6a2-4991-b3fc-94c3f3996e49</testCaseGuid>
+</TestCaseEntity>

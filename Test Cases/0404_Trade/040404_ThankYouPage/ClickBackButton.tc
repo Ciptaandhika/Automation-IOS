@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click back button when payment method has beem choosed</description>
+   <name>ClickBackButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10b7de8a-95d2-4a68-a15a-a8f31c1617ab</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>hoose category 'Produk Digital > E-voucher > Pulsa'</description>
+   <name>TapKategoriProdukDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71a2ebfd-ecf1-4fcf-a6ef-6189535665a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify email
+set text email</description>
+   <name>InputEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b038967-ae99-475e-957e-941b167ea412</testCaseGuid>
+</TestCaseEntity>

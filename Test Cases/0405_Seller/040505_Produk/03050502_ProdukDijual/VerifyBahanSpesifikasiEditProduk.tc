@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7.1 Bahan (Optional) will be displayed</description>
+   <name>VerifyBahanSpesifikasiEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73f8b0b5-1d59-4c42-8490-69020c86008e</testCaseGuid>
+</TestCaseEntity>

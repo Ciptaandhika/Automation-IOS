@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Detail</description>
+   <name>ClickDetailKonfirmasiKodeVerifikasiPenarikanDana_DetailTarikDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef8aeefd-0879-4599-9d08-9c7ed0c99506</testCaseGuid>
+</TestCaseEntity>

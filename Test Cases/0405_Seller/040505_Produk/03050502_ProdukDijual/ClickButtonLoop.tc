@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click icon loop</description>
+   <name>ClickButtonLoop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>151b5046-8401-4076-9082-9531b2a6ceee</testCaseGuid>
+</TestCaseEntity>

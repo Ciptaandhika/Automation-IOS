@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify rincian pesanan</description>
+   <name>VerifyRincianPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>068c67a9-3dc2-4636-b402-25b9e2438b82</testCaseGuid>
+</TestCaseEntity>

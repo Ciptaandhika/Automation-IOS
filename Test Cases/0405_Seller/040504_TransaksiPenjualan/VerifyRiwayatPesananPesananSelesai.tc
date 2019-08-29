@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.2  Riwayat Pesanan section displayed
+2.3 &quot;Lihat&quot; hyperlink button displayed</description>
+   <name>VerifyRiwayatPesananPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>770d035d-0f55-4414-bdf3-c9100a177a22</testCaseGuid>
+</TestCaseEntity>

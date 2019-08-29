@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Change price</description>
+   <name>ChangeProductPriceTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72d5194c-7ccc-4852-8b32-1df9871e3760</testCaseGuid>
+</TestCaseEntity>

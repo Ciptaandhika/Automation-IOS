@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify button Tambah</description>
+   <name>VerifyButtonTambah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2336106b-1a45-4308-a5b0-94856ce03f13</testCaseGuid>
+</TestCaseEntity>

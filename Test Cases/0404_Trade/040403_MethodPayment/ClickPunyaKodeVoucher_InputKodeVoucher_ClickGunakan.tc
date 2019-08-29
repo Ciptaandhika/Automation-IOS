@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Accordion Punya Kode Voucher
+- Input txtBox
+- Click Gunakan</description>
+   <name>ClickPunyaKodeVoucher_InputKodeVoucher_ClickGunakan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dee339d-a87b-4f6e-83b8-c44c00e4bf61</testCaseGuid>
+</TestCaseEntity>

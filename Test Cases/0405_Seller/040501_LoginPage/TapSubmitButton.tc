@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.1 Button can be tap</description>
+   <name>TapSubmitButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcbaeedb-966a-4e55-83b3-d7cfe0db25de</testCaseGuid>
+</TestCaseEntity>

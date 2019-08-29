@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.1 Ensure user can see 3 template</description>
+   <name>Verify3TemplateMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9af4ac3-3b5b-4b88-ae52-601255dc64d5</testCaseGuid>
+</TestCaseEntity>

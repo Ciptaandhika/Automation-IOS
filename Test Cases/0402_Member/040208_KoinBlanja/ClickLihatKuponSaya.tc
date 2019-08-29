@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click 'Lihat' button</description>
+   <name>ClickLihatKuponSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fb71a3f-997a-4197-8df6-fc970b23d1af</testCaseGuid>
+</TestCaseEntity>

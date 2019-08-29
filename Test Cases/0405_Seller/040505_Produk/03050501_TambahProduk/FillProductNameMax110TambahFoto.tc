@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Minimal Character 1 and Maximal 110 character</description>
+   <name>FillProductNameMax110TambahFoto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fedaeb88-71b8-42b3-a693-afe9dc0ccf18</testCaseGuid>
+</TestCaseEntity>

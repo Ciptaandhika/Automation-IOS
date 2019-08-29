@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.4 Ensure message sent</description>
+   <name>InputMessageText_TapSent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfa3b390-5a10-49f0-b32a-5ac9ea0defed</testCaseGuid>
+</TestCaseEntity>

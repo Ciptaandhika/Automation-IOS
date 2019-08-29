@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap &quot;KONFIRMASI&quot; button</description>
+   <name>ClickKonfirmasiButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59eb0832-fe50-4edb-8a26-02ab776f5277</testCaseGuid>
+</TestCaseEntity>

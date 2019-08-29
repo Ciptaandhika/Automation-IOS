@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input harga produk</description>
+   <name>InputHargaProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d960b381-218a-4d12-816e-ae8799936638</testCaseGuid>
+</TestCaseEntity>

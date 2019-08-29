@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify button Tukar</description>
+   <name>VerifyButtonTukarNotClickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>263d1f4b-9639-4f3e-b5b8-0e42821d2279</testCaseGuid>
+</TestCaseEntity>

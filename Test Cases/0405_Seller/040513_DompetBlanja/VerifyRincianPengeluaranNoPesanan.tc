@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see 'Nomor Pesanan' in detail transaction VA'</description>
+   <name>VerifyRincianPengeluaranNoPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8309e60d-cb0c-4d0e-a36f-71e3441b4e2b</testCaseGuid>
+</TestCaseEntity>

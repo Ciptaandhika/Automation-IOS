@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.Tap Push notification</description>
+   <name>TapJanganLupaPushNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9274be09-3f29-4cf4-adad-8d5118958bcb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button buka toko</description>
+   <name>ClickBtnBukaToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f735b039-33e5-4623-bb3d-145885a4bc6c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify 'Dengan mendaftar, Anda akan menyetujui ..'
+click 'Perjanjian Pengguna'
+click 'Kebijakan Privasi'</description>
+   <name>VerifyDenganMendaftar_ClickPerjanjianPengguna_ClickKebijakanPrivasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38fc55ff-4412-4978-9b62-b3c3725304c9</testCaseGuid>
+</TestCaseEntity>

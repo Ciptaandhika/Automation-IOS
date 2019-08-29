@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Burger Menu
+- Click Transaksi Penjualan
+- Click Dibatalkan</description>
+   <name>ClickBurgerMenu_ClickTransaksiPenjualan_CilckDibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e3e719a-2315-470d-bc47-9c35f40eff3f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Start Date &amp; End Date Filter</description>
+   <name>ClickStartDateandEndDateFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf1555e8-1249-481d-8546-25849e63a1a7</testCaseGuid>
+</TestCaseEntity>

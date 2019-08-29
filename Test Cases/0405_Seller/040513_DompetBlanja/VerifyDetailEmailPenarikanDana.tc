@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Detail Email Penarikan Data</description>
+   <name>VerifyDetailEmailPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2578038-1c11-4c49-bcbf-a1a65a1af56b</testCaseGuid>
+</TestCaseEntity>

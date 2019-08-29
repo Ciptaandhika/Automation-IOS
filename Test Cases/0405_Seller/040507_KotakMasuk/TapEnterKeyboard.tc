@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap Search icon and type name buyer name</description>
+   <name>TapEnterKeyboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b73339c-e22e-4959-9518-a30080204a3c</testCaseGuid>
+</TestCaseEntity>

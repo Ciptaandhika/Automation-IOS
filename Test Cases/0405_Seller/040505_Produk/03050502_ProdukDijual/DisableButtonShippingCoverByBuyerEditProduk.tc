@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seller disable button shipping cover by buyer</description>
+   <name>DisableButtonShippingCoverByBuyerEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b5c2b23-df2b-4000-bdc7-ccc474b9abac</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.1 In Order Detail, &quot;Pick Up&quot; button will be shown when buyer select provider logistic = instant courier</description>
+   <name>VerifyButtonPickUpDriver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f8d0e88-cc00-451a-bdeb-a6704f921f21</testCaseGuid>
+</TestCaseEntity>

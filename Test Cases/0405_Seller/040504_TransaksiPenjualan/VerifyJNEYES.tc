@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.3 Penyedia Jasa Pengiriman Option displayed &quot;JNE&quot; with disable field 
+3.4 &quot;Layanan Pengiriman&quot; displayed &quot;YES&quot; with disable field</description>
+   <name>VerifyJNEYES</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c28ceaea-2532-4f38-bd6e-48c32d0708eb</testCaseGuid>
+</TestCaseEntity>

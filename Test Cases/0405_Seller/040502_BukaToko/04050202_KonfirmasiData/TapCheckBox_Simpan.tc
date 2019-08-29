@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Confirmation data seller screen
+- Tap Simpan button</description>
+   <name>TapCheckBox_Simpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37a65905-4d41-41e4-a723-81bc12aaf238</testCaseGuid>
+</TestCaseEntity>

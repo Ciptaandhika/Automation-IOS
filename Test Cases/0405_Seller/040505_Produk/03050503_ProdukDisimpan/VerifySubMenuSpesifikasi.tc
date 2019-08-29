@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify sub menu spesifikasi :
+	- Jenis Pakaian
+	- Ukuran
+	- Bahan
+	- Kapasitas ukuran</description>
+   <name>VerifySubMenuSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99fa0aaa-2743-457f-9861-76e474b38605</testCaseGuid>
+</TestCaseEntity>

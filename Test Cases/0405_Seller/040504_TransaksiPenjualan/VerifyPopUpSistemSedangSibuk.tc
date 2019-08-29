@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure if If failed to hit GO-SEND API for pickup request, show this pop up message:
+&quot; Pickup request is failed due to problems in the system. Please try again in a few moments. &quot; or &quot; Permintaan pickup gagal dikarenakan ada kendala pada sistem.
+Silakan coba kembali beberapa saat lagi.&quot;</description>
+   <name>VerifyPopUpSistemSedangSibuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a917d026-a17f-4dda-9116-8633543681df</testCaseGuid>
+</TestCaseEntity>

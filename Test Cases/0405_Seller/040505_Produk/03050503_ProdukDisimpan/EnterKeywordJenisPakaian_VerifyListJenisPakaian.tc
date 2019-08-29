@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter keyword
+VerifyListJenisPakaian</description>
+   <name>EnterKeywordJenisPakaian_VerifyListJenisPakaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d531f1c-7908-446b-9ece-c123f888ba51</testCaseGuid>
+</TestCaseEntity>

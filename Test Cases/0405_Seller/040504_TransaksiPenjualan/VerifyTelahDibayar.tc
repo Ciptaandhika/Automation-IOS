@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify telah dibayar</description>
+   <name>VerifyTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7c38fcb-e447-4952-a172-2e10588e8f1d</testCaseGuid>
+</TestCaseEntity>

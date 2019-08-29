@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that web view has been opened</description>
+   <name>VerifyWebView</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9bceab5-3a90-4c8f-b97e-0dba6eb33076</testCaseGuid>
+</TestCaseEntity>

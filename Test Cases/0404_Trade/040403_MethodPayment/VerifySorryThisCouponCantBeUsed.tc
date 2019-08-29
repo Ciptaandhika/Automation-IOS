@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify SorryThisCouponCantBeUsed</description>
+   <name>VerifySorryThisCouponCantBeUsed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0af45f38-47ff-4dc4-94e1-1184156a2d58</testCaseGuid>
+</TestCaseEntity>

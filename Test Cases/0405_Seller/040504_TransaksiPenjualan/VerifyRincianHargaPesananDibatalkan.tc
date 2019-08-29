@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Subtotal Product should be displayed
+3.2 Biaya Pengiriman
+3.3 Voucher (if any) will be displayed
+3.4 Cashback (if any) will be displayed
+3.5 Virtual Account (if any) will be displayed
+3.6 Bank Promo will be displayed
+3.7 Total Harga will be displayed</description>
+   <name>VerifyRincianHargaPesananDibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95721042-8c3e-4deb-86ab-1e6f7d343694</testCaseGuid>
+</TestCaseEntity>

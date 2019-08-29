@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify show 'Pastikan nomor telepon anda aktif'
+Input no telp
+Input no telp kurang dari 8 karakter
+Input no telp lebih dari 16 karakter</description>
+   <name>VerifyNoTelp_InputNoTelp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc4bf881-1129-4049-9111-a06da6a3b748</testCaseGuid>
+</TestCaseEntity>

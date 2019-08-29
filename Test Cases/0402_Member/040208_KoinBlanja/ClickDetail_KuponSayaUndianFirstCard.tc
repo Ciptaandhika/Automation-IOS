@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click detail pada koin saya</description>
+   <name>ClickDetail_KuponSayaUndianFirstCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c9b3b80-09fb-4286-bcfa-007214ed9e0e</testCaseGuid>
+</TestCaseEntity>

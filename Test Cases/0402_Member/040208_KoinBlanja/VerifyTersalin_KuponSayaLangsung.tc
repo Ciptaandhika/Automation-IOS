@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user copy the code successfully</description>
+   <name>VerifyTersalin_KuponSayaLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9a8f1a4-4999-400f-925f-cb67657ee3c3</testCaseGuid>
+</TestCaseEntity>

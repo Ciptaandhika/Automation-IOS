@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click jenis pakaian spesifikasi</description>
+   <name>ClickJenisPakaianSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>912ca96a-da2c-4d62-beba-55a842a9b397</testCaseGuid>
+</TestCaseEntity>

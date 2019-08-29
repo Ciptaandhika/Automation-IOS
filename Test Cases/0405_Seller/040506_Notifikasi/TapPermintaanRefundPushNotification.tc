@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.Tap Push notification</description>
+   <name>TapPermintaanRefundPushNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5a23f5a-c247-4a87-82e0-6b25860edad1</testCaseGuid>
+</TestCaseEntity>

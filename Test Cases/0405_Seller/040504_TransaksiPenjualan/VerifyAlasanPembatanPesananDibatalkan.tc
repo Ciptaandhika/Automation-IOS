@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.3 Alasan Pembatalan section displayed</description>
+   <name>VerifyAlasanPembatanPesananDibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccfce0df-18e3-4c4c-8f45-63794a14176e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Delete stock
+7. Tap Save button</description>
+   <name>VerifyStokProdukTidakBolehKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d20cf386-ebaa-4176-8983-b29ebbf2ab53</testCaseGuid>
+</TestCaseEntity>

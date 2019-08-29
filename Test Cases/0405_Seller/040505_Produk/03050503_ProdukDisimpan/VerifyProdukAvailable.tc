@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Product list displayed</description>
+   <name>VerifyProdukAvailable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8cad2ee-2ceb-4a2e-83a0-447c63edaa4b</testCaseGuid>
+</TestCaseEntity>

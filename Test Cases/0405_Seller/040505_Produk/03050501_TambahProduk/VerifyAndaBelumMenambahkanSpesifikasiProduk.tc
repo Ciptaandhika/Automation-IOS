@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error validation if seller didnt choose spesifikasi</description>
+   <name>VerifyAndaBelumMenambahkanSpesifikasiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63c62cfd-f7e7-43dc-ba3d-8fb509d2d1a6</testCaseGuid>
+</TestCaseEntity>

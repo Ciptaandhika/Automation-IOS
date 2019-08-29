@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify newsletter
+verify default checkbox was checked
+uncheck checkbox newsletter
+check checkbox newsletter</description>
+   <name>VerifyNewsletter_UncheckAndCheckCheckBoxNewsletter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2a383d1-477e-4a35-b372-fd018a659b94</testCaseGuid>
+</TestCaseEntity>

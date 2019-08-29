@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;1. Seller go to 'Tambahkan Produk'
+ 2. choose product category
+ 3. click button 'Lanjutkan'&quot;</description>
+   <name>FillAllMandatoryFieldsProductBekas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba98bcea-5f90-4f31-b1ee-50d3bdbbfc95</testCaseGuid>
+</TestCaseEntity>

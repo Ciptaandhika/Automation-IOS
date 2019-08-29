@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify gender option
+verify radiobutton pria
+verify radiobutton wanita
+select radiobutton pria
+select radiobutton wanita</description>
+   <name>VerifyGenderOptionRegister_SelectGender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20416af4-db4d-448c-9996-aed3d1d105c3</testCaseGuid>
+</TestCaseEntity>

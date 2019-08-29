@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify txtBox domain toko
+set text domain toko
+delete inputan domain toko
+click button lanjutkan untuk memastikan text box domain toko mandatory</description>
+   <name>VerifyDomainToko_InputDomainToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bef5498-ee13-44ec-8ae1-c6c0c0b1c45f</testCaseGuid>
+</TestCaseEntity>

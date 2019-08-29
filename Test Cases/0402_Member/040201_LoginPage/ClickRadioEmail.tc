@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Radio Button Email</description>
+   <name>ClickRadioEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc297756-1a14-474d-8ba6-db3ed373162c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Status pengiriman section</description>
+   <name>VerifyStatusPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b1e3373-b6ff-4d1b-a86d-e4ac8867d539</testCaseGuid>
+</TestCaseEntity>

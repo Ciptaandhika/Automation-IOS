@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Veirfy rincian harga</description>
+   <name>VerifyRincianHarga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7132e2a-b52f-4f4a-9c7e-28b785a8a34b</testCaseGuid>
+</TestCaseEntity>

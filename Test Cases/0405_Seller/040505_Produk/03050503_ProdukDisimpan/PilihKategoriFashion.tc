@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu fashion
+click sub kategori fashion :
+	- FashionPria
+	- Pakaian Pria
+	- Kaos
+	- Kaos Lengan Panjang</description>
+   <name>PilihKategoriFashion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5eec2e5-0fb7-4910-b900-9c059be6fc80</testCaseGuid>
+</TestCaseEntity>

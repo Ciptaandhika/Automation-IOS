@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Change product name</description>
+   <name>ChangeProductNameTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eab2e28b-e6bf-46a5-a65b-eaec955cd953</testCaseGuid>
+</TestCaseEntity>

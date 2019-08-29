@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. input exact keyword 
+i.e : tea
+2. input did not match keyword
+i.e : +++
+3. did not input any keyword</description>
+   <name>InputCariNamaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5269739-8448-44b3-935b-0c0243ab7681</testCaseGuid>
+</TestCaseEntity>

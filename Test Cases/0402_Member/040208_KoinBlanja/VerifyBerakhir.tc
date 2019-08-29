@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Berakhir Dalam has been shown in apps</description>
+   <name>VerifyBerakhir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64d154b1-8e0d-4ba1-b25e-773b5784cf30</testCaseGuid>
+</TestCaseEntity>

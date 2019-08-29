@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Swipe to Penarikan</description>
+   <name>SwipeTabFromSemuaToPenarikan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2684bf3-c64c-494d-82cd-89d10e90b492</testCaseGuid>
+</TestCaseEntity>

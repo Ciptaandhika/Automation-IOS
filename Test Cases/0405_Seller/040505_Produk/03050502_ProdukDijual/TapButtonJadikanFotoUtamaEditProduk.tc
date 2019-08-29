@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Click on button 'Jadikan Foto Utama'</description>
+   <name>TapButtonJadikanFotoUtamaEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5b5f45b-b4f9-43b7-8f58-64513496b973</testCaseGuid>
+</TestCaseEntity>

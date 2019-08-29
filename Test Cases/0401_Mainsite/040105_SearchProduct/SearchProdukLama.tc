@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Text 'Produklama'</description>
+   <name>SearchProdukLama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeef272e-8a29-41ea-b2d7-cd531fab08e4</testCaseGuid>
+</TestCaseEntity>

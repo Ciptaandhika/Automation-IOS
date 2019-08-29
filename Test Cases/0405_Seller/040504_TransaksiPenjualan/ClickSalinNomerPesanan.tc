@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click ' Salin ' on Nomer Pesanan</description>
+   <name>ClickSalinNomerPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7f0e8dc-b49c-4670-93d6-f3736859d97a</testCaseGuid>
+</TestCaseEntity>

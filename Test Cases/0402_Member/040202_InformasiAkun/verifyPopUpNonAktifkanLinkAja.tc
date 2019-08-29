@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pop Up</description>
+   <name>verifyPopUpNonAktifkanLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>599a2d67-e5f1-4b8a-a0a4-f6f56f28674c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will redirect to withdrawal confirmation page</description>
+   <name>ClickTarikDanaBottomDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0478ef7-c492-4379-98f3-ea44aa2c84d4</testCaseGuid>
+</TestCaseEntity>

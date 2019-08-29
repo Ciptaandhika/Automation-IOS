@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show option to upload image by:
+- Kamera
+- Galeri</description>
+   <name>VerifyOptionToUploadImage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd0ddab0-2b37-40a0-a041-cf165b4af9d8</testCaseGuid>
+</TestCaseEntity>

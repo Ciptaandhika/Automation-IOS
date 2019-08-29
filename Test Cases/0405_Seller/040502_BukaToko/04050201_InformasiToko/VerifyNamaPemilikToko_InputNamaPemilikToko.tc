@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify txtBox nama pemilik toko
+set text nama pemilik toko
+delete inputan nama pemilik toko
+click button lanjutkan untuk memastikan text box nama pemilik toko mandatory</description>
+   <name>VerifyNamaPemilikToko_InputNamaPemilikToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f02916ae-df6d-42fa-9c5d-032c3da62e8c</testCaseGuid>
+</TestCaseEntity>

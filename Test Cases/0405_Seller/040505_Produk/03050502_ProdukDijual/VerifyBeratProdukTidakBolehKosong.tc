@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Delete weight of product
+8. Tap Save button</description>
+   <name>VerifyBeratProdukTidakBolehKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1866f0f-89be-45d5-a248-ebb9159a0044</testCaseGuid>
+</TestCaseEntity>

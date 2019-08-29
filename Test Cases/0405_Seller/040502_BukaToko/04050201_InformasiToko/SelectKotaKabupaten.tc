@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Provice dropdown will be displayed
+4.1 User can choose province
+4.2 Province is mandatory</description>
+   <name>SelectKotaKabupaten</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5aa37a3c-f9b4-4ece-a2ea-c904be290cb7</testCaseGuid>
+</TestCaseEntity>

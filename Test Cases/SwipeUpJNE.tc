@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Swipe up to JNE Jasa Pengiriman</description>
+   <name>SwipeUpJNE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1ac6864-9511-454e-b5ad-62762bba8468</testCaseGuid>
+</TestCaseEntity>

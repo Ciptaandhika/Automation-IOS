@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>e-pay BRI payment method appear on Order Details</description>
+   <name>VerifyEPayBRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b81a667b-c4d1-4c5b-9bf9-51c6626f7f03</testCaseGuid>
+</TestCaseEntity>

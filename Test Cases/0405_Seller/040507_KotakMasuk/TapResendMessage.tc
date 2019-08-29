@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Tap on failed sent message</description>
+   <name>TapResendMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92f3b841-c31e-46fb-aba1-86960bf59411</testCaseGuid>
+</TestCaseEntity>

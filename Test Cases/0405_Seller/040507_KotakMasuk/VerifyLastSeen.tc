@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Last active buyer screen displayed</description>
+   <name>VerifyLastSeen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdee3bc1-33ce-4118-9c4a-27b6160dbeba</testCaseGuid>
+</TestCaseEntity>

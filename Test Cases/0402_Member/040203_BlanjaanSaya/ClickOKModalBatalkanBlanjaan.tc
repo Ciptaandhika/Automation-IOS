@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click OK</description>
+   <name>ClickOKModalBatalkanBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce9cfa15-06a4-40f0-b23c-2e2cb5cc705c</testCaseGuid>
+</TestCaseEntity>

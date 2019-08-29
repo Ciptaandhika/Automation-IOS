@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.1 Register screen for individual seller will be displayed
+3.1  Logo store section will be displayed
+4.1 Photo ssection displayed
+4.2 Information text will be displayed
+4.3 User can upload photo via camera
+4.4 User can upload photo taking on gallery
+4.5 Max size 5mb
+4.6 Format JPG or JPEG
+4.7 TLogo store is optional</description>
+   <name>VerifyLogoStore_VerifyPhoto_VerifyInformationText_ClickPilihGambar_ClickCamera</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>709c8393-0dc8-4853-8c6e-26d81c90c39b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sytem show payment information as 'BNI Credit Card'</description>
+   <name>VerifyKartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5c0aed7-2508-4b82-9af7-0fbb47fb9f0f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify email screen</description>
+   <name>VerifyEmailScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>878b7128-88b2-4c76-ae8a-d614d9d4f18d</testCaseGuid>
+</TestCaseEntity>

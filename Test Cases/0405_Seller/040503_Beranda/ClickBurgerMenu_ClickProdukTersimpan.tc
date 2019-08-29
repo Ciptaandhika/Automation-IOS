@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click icon burger menu
+click menu produk tersimpan</description>
+   <name>ClickBurgerMenu_ClickProdukTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f77ed5ba-4e5d-4c34-a853-f32eb8139d5b</testCaseGuid>
+</TestCaseEntity>

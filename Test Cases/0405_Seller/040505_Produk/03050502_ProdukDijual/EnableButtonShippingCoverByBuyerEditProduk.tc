@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seller enable button shipping cover by buyer</description>
+   <name>EnableButtonShippingCoverByBuyerEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab7de293-a22b-4ef1-9961-e814b84d20cb</testCaseGuid>
+</TestCaseEntity>

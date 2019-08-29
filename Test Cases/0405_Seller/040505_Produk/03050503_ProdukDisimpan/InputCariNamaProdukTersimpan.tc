@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Launch application
+2. Tap Produk tersimpan
+3. Verify Product tersimpan screen
+4. Tap Search icon
+5. Enter 3 character</description>
+   <name>InputCariNamaProdukTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afc971c5-bdaf-4eb0-84e4-e3fae0aaac2a</testCaseGuid>
+</TestCaseEntity>

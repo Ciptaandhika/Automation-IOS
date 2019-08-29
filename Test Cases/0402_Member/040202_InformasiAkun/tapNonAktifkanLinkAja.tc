@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>link aja profile</description>
+   <name>tapNonAktifkanLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32a42a67-20d3-4dd1-b2eb-b349a2860f49</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Click on button Fashion Brand
+4. Choose fashion brand</description>
+   <name>ChooseJenisProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b4da600-ad21-44e8-aec3-fdf7335e3b2c</testCaseGuid>
+</TestCaseEntity>

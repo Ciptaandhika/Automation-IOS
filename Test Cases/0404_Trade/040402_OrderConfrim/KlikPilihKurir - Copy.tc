@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih jasa pengiriman</description>
+   <name>KlikPilihKurir - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a013bd5-b2c8-4646-b7c8-5b405df08420</testCaseGuid>
+</TestCaseEntity>

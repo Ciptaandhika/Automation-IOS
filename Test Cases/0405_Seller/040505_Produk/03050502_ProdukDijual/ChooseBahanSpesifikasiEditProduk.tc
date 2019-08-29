@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Click on button Bahan
+4. Choose Bahan</description>
+   <name>ChooseBahanSpesifikasiEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec82fef4-8a88-4a42-bd6b-f7035a59dd04</testCaseGuid>
+</TestCaseEntity>

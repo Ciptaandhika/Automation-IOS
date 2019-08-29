@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.1 information to fill out search box will be displayed</description>
+   <name>VerifyWarningBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d290e42-7049-4a20-bed9-b7472b4edefc</testCaseGuid>
+</TestCaseEntity>

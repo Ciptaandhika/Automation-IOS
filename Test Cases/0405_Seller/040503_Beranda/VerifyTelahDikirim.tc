@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Telah Dikirim</description>
+   <name>VerifyTelahDikirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65c151f7-1642-451b-9857-824092baeee3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,586 @@
+         <?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>test</name>
+   </GlobalVariableEntity>
+   <!-- Global -->
+   <!-- 04_IOS -->
+      <GlobalVariableEntity>
+          <description></description>
+          <initValue>'/Users/reviliyanaekapratiwi/Automation Blanja/BlanjaStaging.ipa'</initValue>
+          <name>apiFilePath</name>
+      </GlobalVariableEntity>
+      <GlobalVariableEntity>
+          <description></description>
+          <initValue>'/Users/reviliyanaekapratiwi/Automation Blanja/SellerStaging.ipa'</initValue>
+          <name>apiFilePathSeller</name>
+      </GlobalVariableEntity>
+      <!-- 0401_Mainsite -->
+         <!-- 040101_Home -->
+		 <!-- 040102_Microsite -->
+            <!-- 04010201_Pulsa -->
+            <!-- 04010202_Paket Data -->
+            <!-- 04010203_PLN -->
+            <!-- 04010204_Garuda Indonesia -->
+            <!-- 04010205_Bpjs -->
+        <!-- 040103_Kategori -->
+        <!-- 040104_OfficialBrand -->
+        <!-- 040105_SearchProduct -->
+        <GlobalVariableEntity>
+                <description></description>
+                <initValue>'dettol sabun mandi'</initValue>
+                <name>searchNamaProdukSearchProduct</name>
+            </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>'baju'</initValue>
+            <name>searchNamaProdukSearchProductBaju</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>'ajaj'</initValue>
+            <name>searchNamaProdukSearchProductAjaj</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>'sunsilk'</initValue>
+            <name>searchNamaProdukSearchProductSunsilk5k</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>'pantene black shine'</initValue>
+            <name>searchNamaProdukSearchProductPanteneBlackShineBotol</name>
+        </GlobalVariableEntity>
+      <!-- 0402_Member -->
+        <!-- 040201_LoginPage -->
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'bukatoko01'</initValue>
+                <name>UsernameOTPLOG</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'qwe123'</initValue>
+                <name>PasswordOTPLOG</name>
+            </GlobalVariableEntity>
+        <!-- 040202_InformasiAkun -->
+            <!-- 04020201_UbahProfil -->
+            <!-- 04020202_DaftarAlamat -->
+            <!-- 04020203_PengaturanAkun -->
+        <!-- 040203_BlanjaanSaya  -->
+        <!-- 040204_Favorit -->
+        <!-- 040205_KotakMasuk -->
+        <!-- 040206_Notifikasi -->
+        <!-- 040207_Ulasan -->
+        <!-- 040208_KoinBlanja -->
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>''</initValue>
+            <name>KoinBlanjaEmpty</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>''</initValue>
+            <name>KoinBlanja2</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>''</initValue>
+            <name>getNamaKupon</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>''</initValue>
+            <name>getKodeKupon</name>
+        </GlobalVariableEntity>
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>''</initValue>
+            <name>getTanggalKupon</name>
+        </GlobalVariableEntity>
+        <!-- 040209_Kupon -->
+        <!-- 040210_Bantuan -->
+        <!-- 040211_LaporkanBugDansaran -->
+            <!-- 04021101_LaporkanMasalah -->
+            <!-- 04021102_SarankanPerbaikan -->
+        <!-- 040212_DompetBlanja -->
+      <!-- 0403_Product -->
+         <!-- 040301_PDP -->
+         <!-- 040302_Store -->
+     
+      <!-- 0404_Trade -->
+         <!-- 040401_Cart -->
+         <!-- 040402_OrderConfirm -->
+		 <!-- 040403_MethodPayment -->
+			<GlobalVariableEntity>
+                <description></description>
+                <initValue>'KAYANG'</initValue>
+                <name>VoucherBlanja</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'FREEDOM'</initValue>
+                <name>VoucherBlanjaWithoutLockPayment</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'UC2J159AN5'</initValue>
+                <name>VoucherBlanjaUniqueWithoutLockPayment1</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'UCL50BFGJI'</initValue>
+                <name>VoucherBlanjaUniqueWithoutLockPayment2</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'UCIP2L16PF'</initValue>
+                <name>VoucherBlanjaUniqueWithoutLockPayment3</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'UCVO9V5RMD'</initValue>
+                <name>VoucherBlanjaUniqueWithoutLockPayment4</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'UCP69JJ22T'</initValue>
+                <name>VoucherBlanjaUniqueWithoutLockPayment5</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'UCVD9ARBOS'</initValue>
+                <name>VoucherBlanjaUniqueWithoutLockPayment6</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'PPRMA6L6V0'</initValue>
+                <name>VoucherBlanjaUniqueMandiriTransfer1</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'MTVGS48DJH'</initValue>
+                <name>VoucherBlanjaUniqueMandiriTransfer2</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'MTMOMF3FSH'</initValue>
+                <name>VoucherBlanjaUniqueMandiriTransfer3</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'MT5DJSSGN4'</initValue>
+                <name>VoucherBlanjaUniqueMandiriTransfer4</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'MT1MK41R4L'</initValue>
+                <name>VoucherBlanjaUniqueMandiriTransfer5</name>
+            </GlobalVariableEntity>
+         <!-- 040404_ThankYouPage -->
+		 
+	  <!-- 0405_Seller -->
+        <!-- 040501_LoginPage -->
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'tokouncomplate'</initValue>
+                <name>usernameSellerUnverifiedLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'atest06@test.com'</initValue>
+                <name>registeredEmailSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Email Anda: a•••••6@test.com'</initValue>
+                <name>emailMaskedSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'qwe12345'</initValue>
+                <name>passwordSellerUnverifiedLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'tokouncomplate'</initValue>
+                <name>usernameSellerUncompleteLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'qwe12345'</initValue>
+                <name>passwordSellerUncompleteLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'seller03'</initValue>
+                <name>usernameSellerBusinessLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'123qwe'</initValue>
+                <name>passwordSellerBusinessLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'tokoqa'</initValue>
+                <name>usernameUKMSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'123qwe'</initValue>
+                <name>passwordUKMSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'tokoqa'</initValue>
+                <name>usernameSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'123qwe'</initValue>
+                <name>passwordSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Username / Email / No. Telepon'</initValue>
+                <name>labelusernameSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Password'</initValue>
+                <name>labelpasswordSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Masuk'</initValue>
+                <name>masukSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Lupa Password?'</initValue>
+                <name>lupaPasswordSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Mohon masukkan password Anda'</initValue>
+                <name>mohonMasukkanPasswordAndaSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Belum punya akun BLANJA?'</initValue>
+                <name>belumPunyaAkunSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Daftar Di sini'</initValue>
+                <name>daftarDisiniSellerLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'unregisteredUsername'</initValue>
+                <name>unregisteredUsernameLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Member tidak terdaftar di Blanja.com'</initValue>
+                <name>messageUregisterLupaPasswordLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Daftar'</initValue>
+                <name>DaftarLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Ayo Gabung di BLANJA.com!'</initValue>
+                <name>AyoGabungLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'mii103'</initValue>
+                <name>UsernameLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'082117657844'</initValue>
+                <name>NoTelpLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'085213'</initValue>
+                <name>NoTelpLess8LoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'0876567465342341898'</initValue>
+                <name>NoTelpMore16LoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'mii103@blanja.com'</initValue>
+                <name>EmailLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'mii123'</initValue>
+                <name>PasswordLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Password harus mengandung huruf, angka dan karakter istimewa'</initValue>
+                <name>InformationPasswordErrorLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Berlangganan newsletter (opsional)'</initValue>
+                <name>ScrollToBerlanggananNewsletterLoginPage</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Email Verifikasi'</initValue>
+                <name>TextEmailVerifikasiLoginPage</name>
+            </GlobalVariableEntity>
+        <!-- 040502_BukaToko -->
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'sellertest01'</initValue>
+                <name>UsernameBukaToko</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'qwe123'</initValue>
+                <name>PasswordBukaToko</name>
+            </GlobalVariableEntity>
+            <!-- 04050201_InformasiToko -->
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Daftar Sebagai Seller Individual'</initValue>
+                    <name>HeaderDaftarSebagaiSellerIndividualInformasiToko</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Informasi Toko'</initValue>
+                    <name>TitleInformasiToko</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Lengkapi informasi toko Anda dibawah ini, tampilan toko yang menarik akan membuat Pembeli tertarik'</initValue>
+                    <name>KeteranganInformasiToko</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'mii'</initValue>
+                    <name>NamaPemilikTokoInformasiToko</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'087856342376'</initValue>
+                    <name>NoTelpInformasiToko</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Toko BlanjaYu'</initValue>
+                    <name>NamaTokoInformasiToko</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'blanjayu'</initValue>
+                    <name>DomainTokoInformasiToko</name>
+                </GlobalVariableEntity>
+            <!-- 04050202_KonfirmasiData -->
+            <!-- 04050203_Berhasil -->
+        <!-- 040503_Beranda -->
+            <!-- 04050301_DompetBlanja -->
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'123qwe'</initValue>
+                    <name>tokoQAPasswordDompetBlanja</name>
+                </GlobalVariableEntity>
+        <!-- 040504_TransaksiPenjualan -->
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'419089721425529925'</initValue>
+                    <name>OrderNumberTransaksiPenjualan</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'4190'</initValue>
+                    <name>OrderNumberTransaksiPenjualan4Chacacter</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'259567092134656575'</initValue>
+                    <name>OrderNumberTransaksiPenjualanWrong</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>' '</initValue>
+                    <name>OrderNumberTransaksiPenjualanNone</name>
+                </GlobalVariableEntity>
+        <!-- 040505_Produk -->
+            <!-- 04050501_TambahProduk -->
+            <!-- 04050502_ProdukDijual -->
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Putih'</initValue>
+                    <name>availableWarnaVarianTambahVarianEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Jingga'</initValue>
+                    <name>notAvailableWarnaVarianTambahVarianEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Edited'</initValue>
+                    <name>changeDetailProdukEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'Edited'</initValue>
+                    <name>SKUCharacterEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'123456'</initValue>
+                    <name>SKUNumberEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'!@#$%^*()'</initValue>
+                    <name>SKUSymbolEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'123'</initValue>
+                    <name>StokProdukEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'123456'</initValue>
+                    <name>PriceProdukEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'1234'</initValue>
+                    <name>DiscountPriceProdukEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'dress'</initValue>
+                    <name>SearchJenisPakaianSpesifikasiEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'EditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedhehe'</initValue>
+                    <name>Character120ProductNameEditProduk</name>
+                </GlobalVariableEntity>
+                <GlobalVariableEntity>
+                    <description></description>
+                    <initValue>'EditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedheheEditedhehe'</initValue>
+                    <name>Character2020ProductDescriptionEditProduk</name>
+                </GlobalVariableEntity>
+            <!-- 04050203_ProdukDisimpan -->
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Edit Produk'</initValue>
+                <name>TextHeaderEditProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Nama poduk'</initValue>
+                <name>NamaProdukProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'ini deskripsi poduk'</initValue>
+                <name>DeskripsiProdukProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Detail Pengiriman'</initValue>
+                <name>ScrollToTextDetailPengirimanProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'ini SKU'</initValue>
+                <name>SKUProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'1012'</initValue>
+                <name>SKUDigitProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'@#$%^'</initValue>
+                <name>SKUSimbolProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'24'</initValue>
+                <name>StokProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'100000'</initValue>
+                <name>HargaProdukProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Rp 100.000'</initValue>
+                <name>HargaProdukTitikProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'10000'</initValue>
+                <name>HargaDiskonProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Rp 10.000'</initValue>
+                <name>HargaDiskonTitikProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'Spesifikasi'</initValue>
+                <name>TextHeaderPageSpesifikasiProdukDisimpan</name>
+            </GlobalVariableEntity>
+            <GlobalVariableEntity>
+                <description></description>
+                <initValue>'baju'</initValue>
+                <name>SearchJenisPakaianSpesifikasiProdukDisimpan</name>
+            </GlobalVariableEntity>
+        <!-- 040506	Notifikasi -->
+        <!-- 040507	KotakMasuk -->
+        <GlobalVariableEntity>
+            <description></description>
+            <initValue>'mii03'</initValue>
+            <name>lebihDari3KarakterSearchMessage</name>
+        </GlobalVariableEntity>
+        <!-- 040508	KelolaJasaPengiriman -->
+        <!-- 040509	AlamatPengiriman -->
+        <!-- 040510	KelolaUlasan -->
+        <!-- 040511	Bantuan -->
+        <!-- 040512	LaporkanBugDansaran -->
+                <!-- 04051201	LaporkanMasalah -->
+                <!-- 04051202	SarankanPerbaikan -->
+         <GlobalVariableEntity>
+            <description></description>
+            <initValue>'Hallo Gan'</initValue>
+            <name>messageChatWithBuyer</name>
+        </GlobalVariableEntity>
+         <GlobalVariableEntity>
+             <description></description>
+             <initValue>'produk digital'</initValue>
+             <name>SearchProdukDigital</name>
+         </GlobalVariableEntity>
+   </GlobalVariableEntities>
+

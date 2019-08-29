@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sytem show payment information as 'Debit Online'</description>
+   <name>VerifyDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>349bd434-c884-4eef-960b-9142ed827f7e</testCaseGuid>
+</TestCaseEntity>

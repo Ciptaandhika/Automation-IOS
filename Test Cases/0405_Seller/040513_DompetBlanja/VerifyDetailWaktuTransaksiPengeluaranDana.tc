@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Detail Waktu Transaksi Pengeluaran Dana</description>
+   <name>VerifyDetailWaktuTransaksiPengeluaranDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f853409f-aeed-42f3-9f90-9f646838adae</testCaseGuid>
+</TestCaseEntity>

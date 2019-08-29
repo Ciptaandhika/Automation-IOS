@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page BRI e-Pay</description>
+   <name>VerifyPageBRIEpay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1275f8d-cf1d-49e4-a89d-038e3d21b821</testCaseGuid>
+</TestCaseEntity>

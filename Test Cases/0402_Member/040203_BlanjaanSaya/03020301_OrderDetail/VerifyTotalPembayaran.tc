@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On bottom line, system will display some installment info, such likes :
+- Total Pemesanan</description>
+   <name>VerifyTotalPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1edc76f-5916-4599-995b-d5f59a96ea9b</testCaseGuid>
+</TestCaseEntity>

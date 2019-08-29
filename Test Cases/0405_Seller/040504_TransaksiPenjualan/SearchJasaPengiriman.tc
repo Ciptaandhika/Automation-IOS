@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Tap on search text field</description>
+   <name>SearchJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ece004d-22ec-4aed-9bca-1d74a81e152d</testCaseGuid>
+</TestCaseEntity>

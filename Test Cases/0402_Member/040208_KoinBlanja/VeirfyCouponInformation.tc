@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that information of lottery coupon has been shown</description>
+   <name>VeirfyCouponInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e24db453-b3d3-4a19-802a-c1dc6ff4c09d</testCaseGuid>
+</TestCaseEntity>

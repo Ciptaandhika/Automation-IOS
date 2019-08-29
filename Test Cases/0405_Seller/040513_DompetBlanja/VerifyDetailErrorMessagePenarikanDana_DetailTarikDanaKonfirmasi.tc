@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display error message: &quot;kode verifikasi telepon salah&quot;</description>
+   <name>VerifyDetailErrorMessagePenarikanDana_DetailTarikDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bbeb9e1-ec85-4c53-87fc-70d1ea62243c</testCaseGuid>
+</TestCaseEntity>

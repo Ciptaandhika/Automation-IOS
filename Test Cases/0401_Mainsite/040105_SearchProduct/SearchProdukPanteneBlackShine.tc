@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter produk name
+tap done keyboard</description>
+   <name>SearchProdukPanteneBlackShine</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8cc38fa-066e-4caf-a742-01873abd5986</testCaseGuid>
+</TestCaseEntity>

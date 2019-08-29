@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Click on button &quot;Warna&quot;
+4. Search warna 
+5. Tap &quot;Ya, Tambahkan&quot; button
+6. Tap Tambah button</description>
+   <name>AddNewColorSpesifikasiEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2154a07-78ed-40a0-bb2d-43e958274e5e</testCaseGuid>
+</TestCaseEntity>

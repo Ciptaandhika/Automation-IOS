@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Ensure user can see Order overview</description>
+   <name>VerifyOrderOverview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a17e618-5981-4189-8ddc-d283d3e9b0d5</testCaseGuid>
+</TestCaseEntity>

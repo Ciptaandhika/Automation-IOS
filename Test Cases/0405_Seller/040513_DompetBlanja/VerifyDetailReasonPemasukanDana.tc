@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see reason add deduct in detail transaction VA'</description>
+   <name>VerifyDetailReasonPemasukanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a63aec73-5ae7-4dda-87e1-ebca63ae3c69</testCaseGuid>
+</TestCaseEntity>

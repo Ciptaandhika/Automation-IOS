@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see 'Jumlah Pemasukan Dana' in detail transaction VA' Dana Dari Transaksi</description>
+   <name>VerifyDetailCabangInformationPenarikanDana_DetailTarikDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0c48437-df68-48dc-aa69-662a93727465</testCaseGuid>
+</TestCaseEntity>

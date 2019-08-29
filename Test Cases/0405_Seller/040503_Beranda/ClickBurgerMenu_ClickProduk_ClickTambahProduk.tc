@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on hamburger menu
+2. Expand menu 'Produk'
+3. Click on submenu 'Tambah Produk'</description>
+   <name>ClickBurgerMenu_ClickProduk_ClickTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e9008a3-2167-4f78-a81a-b7a811a92cb5</testCaseGuid>
+</TestCaseEntity>

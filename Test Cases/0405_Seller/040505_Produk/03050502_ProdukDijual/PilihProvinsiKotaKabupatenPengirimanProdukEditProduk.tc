@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Tap Lokasi toko
+8. Select Province
+9. Tap Kota/Kabupaten dropdown</description>
+   <name>PilihProvinsiKotaKabupatenPengirimanProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e343c479-8c1f-483a-8753-e9a4c0277021</testCaseGuid>
+</TestCaseEntity>

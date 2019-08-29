@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify name, date, and button on carad</description>
+   <name>VerifyKuponSayaUndianFirstCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5b575cb-3777-42d0-91cf-79167ce9a49c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Button BNI</description>
+   <name>ClickBNIVirtualAccountPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eda1e664-a72d-4e50-8e5d-44e11fda2123</testCaseGuid>
+</TestCaseEntity>

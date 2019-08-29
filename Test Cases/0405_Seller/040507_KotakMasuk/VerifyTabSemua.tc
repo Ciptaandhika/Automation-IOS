@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 &quot;SEMUA&quot; tab displayed</description>
+   <name>VerifyTabSemua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b72f7c4-1ee6-4fe8-9c56-b7c5a0222df6</testCaseGuid>
+</TestCaseEntity>

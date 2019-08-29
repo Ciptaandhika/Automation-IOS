@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Search</description>
+   <name>ClickButtonSearch_KuponSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5644108-0d88-4d42-86c4-3bc8370da593</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>fill registration form
+click button daftar</description>
+   <name>FillRegistrationForm_ClickBtnDaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a17caf20-5d24-49dc-a8a1-e42020578ad8</testCaseGuid>
+</TestCaseEntity>

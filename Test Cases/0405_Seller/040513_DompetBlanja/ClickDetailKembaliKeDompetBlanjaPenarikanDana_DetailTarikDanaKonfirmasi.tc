@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User will be redirected to withdrawal balance page</description>
+   <name>ClickDetailKembaliKeDompetBlanjaPenarikanDana_DetailTarikDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e27c956-9b2f-44e9-af29-9df2b42622f4</testCaseGuid>
+</TestCaseEntity>

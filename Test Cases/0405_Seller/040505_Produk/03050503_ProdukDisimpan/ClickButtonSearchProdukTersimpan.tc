@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button search on Produk Tersimpan Page</description>
+   <name>ClickButtonSearchProdukTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd0c8b2-fabc-4177-aa4a-125a8183a962</testCaseGuid>
+</TestCaseEntity>

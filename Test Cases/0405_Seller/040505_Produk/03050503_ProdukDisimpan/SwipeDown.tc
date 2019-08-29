@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll down</description>
+   <name>SwipeDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f6c7ae9-07b4-4d14-9785-9c0debbdadce</testCaseGuid>
+</TestCaseEntity>

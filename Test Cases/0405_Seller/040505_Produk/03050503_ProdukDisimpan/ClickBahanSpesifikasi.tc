@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button bahan spesifikasi</description>
+   <name>ClickBahanSpesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cec6806-bb2b-4bd3-8f2c-45d573364683</testCaseGuid>
+</TestCaseEntity>

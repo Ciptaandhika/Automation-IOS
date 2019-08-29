@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on 'BNI' tab and choose on 'Kartu Kredit Cicilan' payment method</description>
+   <name>ClickBNI_ClickKartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eff3a132-5495-4f8a-8817-3f8e5e27b6de</testCaseGuid>
+</TestCaseEntity>

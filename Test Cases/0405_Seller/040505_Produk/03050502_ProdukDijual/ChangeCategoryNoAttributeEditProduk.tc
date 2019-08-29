@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure If seller already choose category then if that category doesn't have attribute category please hide it.</description>
+   <name>ChangeCategoryNoAttributeEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1ef1999-78ae-4baa-b7d4-99c436a260f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.Tap Push notification</description>
+   <name>TapOrderSelesaiPushNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2800f7f-1013-4344-accb-af7423483369</testCaseGuid>
+</TestCaseEntity>

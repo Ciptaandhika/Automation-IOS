@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap Button Tambahkan Produk Ini</description>
+   <name>TapButtonTambahkanProdukIniTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2018aca-1c7f-40d4-a9f7-294f4d37e25b</testCaseGuid>
+</TestCaseEntity>

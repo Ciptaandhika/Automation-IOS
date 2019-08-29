@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click lacak pengiriman</description>
+   <name>ClickLacakPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d9a08ea-b8dd-4bc4-ab0d-7d0836dc4943</testCaseGuid>
+</TestCaseEntity>

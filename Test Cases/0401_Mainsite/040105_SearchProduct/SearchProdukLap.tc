@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter produk name
+tap done keyboard</description>
+   <name>SearchProdukLap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fb771f7-a97f-40ab-8738-9a90e6b550b8</testCaseGuid>
+</TestCaseEntity>

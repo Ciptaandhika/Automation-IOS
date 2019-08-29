@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Closed Order</description>
+   <name>VerifyClosedOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8324c8c-ba18-4402-9d1e-97a7871785ee</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap on One message</description>
+   <name>TapFirstMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>948b9195-6d19-414e-948d-97ce9c72e4b2</testCaseGuid>
+</TestCaseEntity>

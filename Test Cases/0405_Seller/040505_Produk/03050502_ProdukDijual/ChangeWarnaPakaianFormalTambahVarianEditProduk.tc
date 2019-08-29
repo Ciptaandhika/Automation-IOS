@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose varian 'Warna'</description>
+   <name>ChangeWarnaPakaianFormalTambahVarianEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5015f63a-1743-493e-88eb-457deefc02d4</testCaseGuid>
+</TestCaseEntity>

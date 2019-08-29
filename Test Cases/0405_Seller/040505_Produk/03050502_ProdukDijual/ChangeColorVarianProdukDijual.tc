@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Choose varian 'Warna'</description>
+   <name>ChangeColorVarianProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6814a8ad-660e-48c9-8930-17b763fa14ce</testCaseGuid>
+</TestCaseEntity>

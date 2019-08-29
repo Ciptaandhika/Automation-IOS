@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Change product description</description>
+   <name>ChangeProductDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbea9237-44c8-414d-9b58-7322254e79c6</testCaseGuid>
+</TestCaseEntity>

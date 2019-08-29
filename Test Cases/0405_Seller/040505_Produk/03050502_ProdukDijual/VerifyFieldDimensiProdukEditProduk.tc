@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;2.1 Field Dimensi Produk by default should filled 
+= (P) 1 x (L) 1 x (T) 1
+*depends on mandatory field on DB product&quot;</description>
+   <name>VerifyFieldDimensiProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aee543ed-39d6-47d1-a61b-9a554fd8d892</testCaseGuid>
+</TestCaseEntity>

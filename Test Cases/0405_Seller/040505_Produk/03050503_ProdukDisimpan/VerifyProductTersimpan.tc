@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Title displayed as &quot;PRODUK TERSIMPAN&quot;
+- Search icon will be displayed
+- Delete icon displayed
+- &quot;SEMUA&quot; tab displayed
+- &quot;SEDANG DIVERIKASI&quot; tab displayed
+- &quot;DITURUNKAN&quot; tab displayed
+- &quot;DITOLAK&quot; tab displayed</description>
+   <name>VerifyProductTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ce99517-d473-41d0-a1ff-6ac09d0d6cbb</testCaseGuid>
+</TestCaseEntity>

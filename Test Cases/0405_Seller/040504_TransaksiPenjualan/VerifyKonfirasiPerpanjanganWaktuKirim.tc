@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7.1 System will show popup confirmation for confirming extend  period date</description>
+   <name>VerifyKonfirasiPerpanjanganWaktuKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcea221f-47fb-4688-9386-27aee34cd605</testCaseGuid>
+</TestCaseEntity>

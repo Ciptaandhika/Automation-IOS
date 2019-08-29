@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show selected spesifikasi produk</description>
+   <name>VerifyProdukSpesifikasiEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69b32941-598b-4ce3-9380-3cea4da624e2</testCaseGuid>
+</TestCaseEntity>

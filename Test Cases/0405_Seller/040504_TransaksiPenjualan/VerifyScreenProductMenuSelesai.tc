@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify screen all product</description>
+   <name>VerifyScreenProductMenuSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e7dfabc-15ff-435e-a28e-1b1f2fa1a60c</testCaseGuid>
+</TestCaseEntity>

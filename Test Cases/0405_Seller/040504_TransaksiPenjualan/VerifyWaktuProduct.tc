@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify waktu product</description>
+   <name>VerifyWaktuProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1e69d17-e22e-432b-b929-d260a45e8d80</testCaseGuid>
+</TestCaseEntity>

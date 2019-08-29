@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Search Box</description>
+   <name>DeleteSearchBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6048be5e-d7c6-45be-9cb9-32a70e03a804</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search coupon by code</description>
+   <name>SearchKuponSayaUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f60e25fd-07d8-406c-95ec-447e6f65935e</testCaseGuid>
+</TestCaseEntity>

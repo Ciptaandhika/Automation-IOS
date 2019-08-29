@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify tab Sedang Diverifikasi</description>
+   <name>VerifyTabDitolak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e6532f9-a49c-4e4e-8d40-2a44875a13a5</testCaseGuid>
+</TestCaseEntity>

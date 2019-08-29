@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Pilih Metode Pembayaran</description>
+   <name>PilihMetodePembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ffb2517-3506-4d5d-acdd-76bb01b6978e</testCaseGuid>
+</TestCaseEntity>

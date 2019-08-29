@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Delete price
+7. Tap Save button</description>
+   <name>VerifyHargaProdukTidakBolehKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1da566b-a422-4788-80f8-2852aaaa5a6e</testCaseGuid>
+</TestCaseEntity>

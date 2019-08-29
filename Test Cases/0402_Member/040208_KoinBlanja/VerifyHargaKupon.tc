@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that price of coupon has been shown</description>
+   <name>VerifyHargaKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e64e6bf-c44e-4f39-b0e1-de5ec4a9078c</testCaseGuid>
+</TestCaseEntity>

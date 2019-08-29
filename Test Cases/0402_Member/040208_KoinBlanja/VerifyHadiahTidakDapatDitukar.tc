@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that pop up has been shown</description>
+   <name>VerifyHadiahTidakDapatDitukar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>585a1a35-d5e3-42db-b7a6-3eeb53f9614b</testCaseGuid>
+</TestCaseEntity>

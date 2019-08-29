@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.1 Add product section will be displayed
+2.2 + Add icon will be displayed</description>
+   <name>VerifyAddProductDashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76e5eef0-9a34-45e8-81aa-34e67fd9fa14</testCaseGuid>
+</TestCaseEntity>

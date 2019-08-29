@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Credit Card payment method appear on Order Details</description>
+   <name>VerifyLabelCreditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>827cb3ad-c87c-4e53-8941-c4bb32a0ed3a</testCaseGuid>
+</TestCaseEntity>

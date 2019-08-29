@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>test</name>
+   </GlobalVariableEntity>
+   <!-- Global -->
+   <GlobalVariableEntity>
+         <description></description>
+         <initValue>''</initValue>
+         <name>noOrderGlobal</name>
+      </GlobalVariableEntity>
+       <GlobalVariableEntity>
+         <description></description>
+         <initValue>'/Users/vhl22/Downloads/SellerStaging (2).ipa'</initValue>
+         <name>appLocationPath</name>
+      </GlobalVariableEntity>
+   <!-- 01_DESKTOP -->
+   <!-- 0101_Mainsite -->
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>'http://member.bljstaging.com/'</initValue>
+         <name>URLMemberMainsite</name>
+      </GlobalVariableEntity>
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>'https://www.bljstaging.com/p/hnb/pantene-hairfall-control-shampo-sachet-19757047'</initValue>
+         <name>URLProdukRegular5KMainsite</name>
+      </GlobalVariableEntity>
+      <!-- 010101_Homepage -->
+      <!-- 010102_Microsite -->
+         <!-- 01010201_Pulsa -->
+         <GlobalVariableEntity>
+            <description></description>
+            <initValue>'081932377341'</initValue>
+            <name>noHPPulsa</name>
+         </GlobalVariableEntity>
+         <!-- 01010202_PaketData -->
+         <!-- 01010203_PLN -->
+         <!-- 01010204_GarudaIndonesia -->
+      <!-- 010103_OfficialBrand -->
+      <!-- 010104_SearchProduct -->
+         <!-- 01010401_SearchByKeyword -->
+         <!-- 01010402_SearchByCategory -->
+   
+
+
+
+   <!-- 0102_Member -->
+         <!-- 010201_LoginPage -->
+         <GlobalVariableEntity>
+            <description></description>
+            <initValue>'testblj2'</initValue>
+            <name>usernameBuyerLoginPage</name>
+         </GlobalVariableEntity>
+         <GlobalVariableEntity>
+            <description></description>
+            <initValue>'123qwe'</initValue>
+            <name>passwordBuyerLoginPage</name>
+         </GlobalVariableEntity>
+         <!-- 010202_InformasiAkun -->
+            <!-- 01020201_UbahProfil -->
+            <!-- 01020202_DaftarAlamat -->
+            <!-- 01020203_PengaturanAkun -->
+         <!-- 010203_BlanjaanSaya -->
+		 <GlobalVariableEntity>
+            <description></description>
+            <initValue>'https://member.bljstaging.com/trades/orderList.html'</initValue>
+            <name>urlMemberOrderListBlanjaanSaya</name>
+		 </GlobalVariableEntity>
+		 <GlobalVariableEntity>
+            <description></description>
+            <initValue>''</initValue>
+            <name>lastOrderNumberBlanjaanSaya</name>
+		 </GlobalVariableEntity>
+            <!-- 01020301_OrderDetail -->
+            <!-- 01020302_RefundDetail -->
+            <!-- 01020303_ApplyRefund -->
+         <!-- 010204_Favorit -->
+         <!-- 010205_KotakMasuk -->
+         <!-- 010206_Ulasan -->
+         <!-- 010207_KoinBlanja -->
+         <!-- 010208_DompetBlanja -->
+         <GlobalVariableEntity>
+            <description></description>
+            <initValue>123qwe</initValue>
+            <name>tokoQAPasswordDompetBlanja</name>
+		    </GlobalVariableEntity>
+         <!-- 010209_Cashback -->
+         <!-- 010210_TCash -->
+   
+
+
+
+
+   <!-- 0103_Product -->
+      <!-- 010301_PDP -->
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>'2'</initValue>
+         <name>qtyPDP</name>
+      </GlobalVariableEntity>
+      <!-- 010302_Store -->
+   
+
+
+
+
+   <!-- 0104_Trade -->
+      <!-- 010401_Cart -->
+      <!-- 010402_OrderConfirm -->
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>2</initValue>
+         <name>qtyOrderConfirm</name>
+      </GlobalVariableEntity>
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>'Kurir Standar'</initValue>
+         <name>kurirStandarOrderConfirm</name>
+      </GlobalVariableEntity>
+	  <GlobalVariableEntity>
+         <description></description>
+         <initValue>''</initValue>
+         <name>idrTotalProdukOrderConfirm</name>
+      </GlobalVariableEntity>
+	  <GlobalVariableEntity>
+         <description></description>
+         <initValue>''</initValue>
+         <name>idrBiayaPengiriamanOrderConfirm</name>
+      </GlobalVariableEntity>
+      <!-- 010403_MethodPayment -->
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>'123qwe'</initValue>
+         <name>passwordVAMethodPayment</name>
+      </GlobalVariableEntity>
+      <GlobalVariableEntity>
+         <description></description>
+         <initValue>'Bayar via ATM'</initValue>
+         <name>scrollToBayarViaATMMethodPayment</name>
+      </GlobalVariableEntity>
+      <!-- 010404_ThankYouPage -->
+   
+
+
+
+
+   <!-- 0105_Admin -->
+   <GlobalVariableEntity>
+         <description></description>
+         <initValue>'mpadmin'</initValue>
+         <name>usernameAdminAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+         <description></description>
+         <initValue>'a123456'</initValue>
+         <name>passwordAdminAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+         <description></description>
+         <initValue>'https://admin.bljstaging.com/login'</initValue>
+         <name>urlLoginAdminAdmin</name>
+   </GlobalVariableEntity>
+      <!-- 010501_StoreManagement -->
+         <!-- 01050101_StoreVerification -->
+         <!-- 01050102_ViolationManagement -->
+         <!-- 01050103_SellerList -->
+         <!-- 01050104_ShopBlackList -->
+         <!-- 01050105_SellerRegisterUKMPage -->
+         <!-- 01050106_ApprovalSetting -->
+      <!-- 010502_TransactionManagement -->
+         <!-- 01050201_FeedbackVerification -->
+         <!-- 01050202_DisputeManagement -->
+         <!-- 01050203_OrderManagement -->
+		 <GlobalVariableEntity>
+               <description></description>
+               <initValue>'http://admin.bljstaging.com/blanjatrades/index'</initValue>
+               <name>urlOrderManagementOrderManagement</name>
+         </GlobalVariableEntity>
+		 <GlobalVariableEntity>
+               <description></description>
+               <initValue>''</initValue>
+               <name>PaymentCodeOrderManagement</name>
+         </GlobalVariableEntity>
+         <!-- 01050204_PayManually -->
+		 <GlobalVariableEntity>
+               <description></description>
+               <initValue>'http://admin.bljstaging.com/payment/manually'</initValue>
+               <name>urlPayManuallyPayManually</name>
+         </GlobalVariableEntity>
+         <!-- 01050205_CloseManually -->
+         <!-- 01050206_PublicHolidaySetting -->
+         <!-- 01050207_ShopRefundSetting -->
+         <!-- 01050208_BillingTransaction -->
+         <!-- 01050209_BankTransferPairing -->
+         <!-- 01050210_TCashWalletManagemetLog -->
+      <!-- 010503_CategoryManagement -->
+         <!-- 01050301_BackendProductCategory -->
+         <!-- 01050302_FrontendCategoryManagement -->
+         <!-- 01050303_FrontendCategoryPageSEO -->
+         <!-- 01050304_BackendCategoryPageSEO -->
+         <!-- 01050305_CommonAttributes -->
+         <!-- 01050306_CategoryAttributes -->
+         <!-- 01050307_CategoryGroup -->
+         <!-- 01050308_SearchKeywordManagement -->
+         <!-- 01050309_DuplicateCategoryAttributes -->
+         <!-- 01050310_MigrateProductListing -->
+      <!-- 010504_TakeRateManagement -->
+         <!-- 01050401_TakeRateSetting -->
+         <!-- 01050402_TakeRateVerification -->
+      <!-- 010505_ProductManagement -->
+         <!-- 01050501_ProductVerification -->
+         <!-- 01050502_RefreshSolrByItemId -->
+         <!-- 01050503_ProductModificationLogs -->
+         <!-- 01050504_ModificationSoldQtyProductRating -->
+         <!-- 01050505_BulkQRGenerator -->
+         <!-- 01050506_ProductApprovalSetting -->
+      <!-- 010506_FinanceManagement -->
+         <!-- 01050601_PODSettlement -->
+         <!-- 01050602_WithdrawalManagement -->
+         <!-- 01050603_WithdrawAndBalance -->
+         <!-- 01050604_DompetBlanjaManagement -->
+         <!-- 01050605_DompetBlanjaBulkUpload -->
+         <!-- 01050606_AutoWithdrawProcess -->
+         <!-- 01050607_CreditCardRefund -->
+         <!-- 01050608_BankMutationReport -->
+      <!-- 010507_MarketplaceManagement -->
+         <!-- 01050701_BlanjaNews -->
+         <!-- 01050702_TagManagement -->
+         <!-- 01050703_TagAndProducts -->
+         <!-- 01050704_MessageManagement -->
+         <!-- 01050705_StoreLibraryManagement -->
+         <!-- 01050706_EmailBlackListManagement -->
+      <!-- 010508_SystemManagement -->
+         <!-- 01050801_PrivilegeManagement -->
+         <!-- 01050802_OpenPlatformManagement -->
+         <!-- 01050803_SensitiveWords -->
+         <!-- 01050804_GeneralSetting -->
+         <!-- 01050805_ProgramNameMaster -->
+      <!-- 010509_MarketingCenter -->
+         <!-- 01050901_KoinBlanja -->
+         <!-- 01050902_MasterBINBank -->
+         <!-- 01050903_BankPaymentPromotion -->
+         <!-- 01050904_FreeShippingPromotion -->
+         <!-- 01050905_LimitedByPhonePromotion -->
+         <!-- 01050906_CategoryBoostManagement -->
+         <!-- 01050907_FirstPurchasePromotion -->
+         <!-- 01050908_BlanjaCoupons -->
+         <!-- 01050909_EventPageManagement -->
+         <!-- 01050910_PaymentMethodSetting -->
+         <!-- 01050911_MemberManagement -->
+         <!-- 01050912_CampaignPageManagement -->
+         <!-- 01050913_PushNotification -->
+         <!-- 01050914_SellerPromotionManagement -->
+         <!-- 01050915_InstallmentSettings -->
+         <!-- 01050916_InstallmentPayments -->
+         <!-- 01050917_SearchProductKeywordBoost -->
+         <!-- 01050918_AnalisaKataKunci -->
+         <!-- 01050919_LimitedTimeDiscountPromotion -->
+         <!-- 01050920_KoinBlanjaManagement -->
+         <!-- 01050921_BrandListSetting -->
+         <!-- 01050922_CashbackCampaign -->
+         <!-- 01050923_CashbackManagement -->
+         <!-- 01050924_CashbackManagementLog -->
+      <!-- 010510_ReportManagement -->
+         <!-- 01051001_ProductsReport -->
+         <!-- 01051002_UsersReport -->
+      <!-- 010511_HomepageManagement -->
+         <!-- 01051101_HomepageManagement -->
+         <!-- 01051102_PictureSpace -->
+         <!-- 01051103_BrandPageManagement -->
+         <!-- 01051104_BrandPageCategoryManagement -->
+         <!-- 01051105_PopularKeyword -->
+      <!-- 010512_MobileManagement -->
+         <!-- 01051201_MobileManagement -->
+         <!-- 01051202_MobilePromotion -->
+      <!-- 010513_LogisticsManagement -->
+         <!-- 01051301_ShippingFeeTemplate -->
+         <!-- 01051302_TrackingNumberManagement -->
+         <!-- 01051303_LogisticsCodeMapManagement -->
+         <!-- 01051304_InstantCourier -->
+      <!-- 010514_DigitalProductManagement -->
+         <!-- 01051401_PrepaidCreditSetting -->
+         <!-- 01051402_ProductManagementETicketing -->
+         <!-- 01051403_ProductDigitalSEO -->
+         <!-- 01051404_SearchKeywordRedirectSetting -->
+         <!-- 01051405_ProductDigitalManagement -->
+         <!-- 01051406_MasterProductBilling -->
+         <!-- 01051407_MasterAttributeDigitalProduct -->
+         <!-- 01051408_SettingSchedulerStatusOrder -->
+      <!-- 010515  BUMN -->
+         <!-- 01051501_SellerBUMNManagement -->
+   
+
+
+
+
+   <!-- 0106_Seller -->
+   <GlobalVariableEntity>
+            <description></description>
+            <initValue>'robpatt'</initValue>
+            <name>usernameSellerLoginPage</name>
+         </GlobalVariableEntity>
+         <GlobalVariableEntity>
+            <description></description>
+            <initValue>'kamu2018'</initValue>
+            <name>passwordSellerLoginPage</name>
+         </GlobalVariableEntity>
+      <!-- 010601_KelolaToko -->
+         <!-- 01060101_DekorasiToko -->
+         <!-- 01060102_PenyimpananGambar -->
+         <!-- 01060103_KelolaKategori -->
+         <!-- 01060104_KelolaAkunTambahan -->
+         <!-- 01060105_InfoToko -->
+         <!-- 01060106_LiburkanToko -->
+         <!-- 01060107_TampilkanToko -->
+      <!-- 010602_KelolaProduk -->
+         <!-- 01060201_TambahkanProduk -->
+         <!-- 01060202_ProdukDijual -->
+         <!-- 01060203_ProdukTersimpan -->
+         <!-- 01060204_KeluarkanProduk -->
+         <!-- 01060205_MasukkanProduk -->
+      <!-- 010603_KelolaPemesanan -->
+         <!-- 01060301_TransaksiPenjualan -->
+		 <GlobalVariableEntity>
+            <description></description>
+            <initValue>'https://seller.bljstaging.com/trades'</initValue>
+            <name>urlTransaksiPenjualanTransaksiPenjualan</name>
+         </GlobalVariableEntity>
+		   <!-- 01060302_Kelolatestimonipembeli -->
+      <!-- 010604	KelolaPengiriman-->
+         <!-- 01060401_AlamatPengiriman-->
+		   <!-- 01060402_KelolaJasaPengiriman-->
+	   <!-- 010605	LayananPelanggan-->
+		   <!-- 01060501_KelolaPengembalianDana -->
+		   <!-- 01060502_KelolaSetelahPembelian -->
+	   <!-- 010606	KelolaPemasaran	-->
+		   <!-- 01060601_PengaturanPromosi -->
+	   <!-- 010607	AkunSaya-->
+		   <!-- 01060701_AkunSaya-->
+	   <!-- 010608	KelolaPesan-->
+		   <!-- 01060801_PesanPembeli -->
+	   <!-- 010609	InformasiPenjual-->
+		   <!-- 01060901_SellerCenter-->
+
+
+
+   
+
+   <!-- 02_MOBILE -->
+      <!-- 0201_Mainsite -->
+         <!-- 020101_Homepage -->
+         <!-- 020102_Microsite -->
+            <!-- 02010201_Pulsa -->
+            <!-- 02010202_PaketData -->
+            <!-- 02010203_PLN -->
+            <!-- 02010204_GarudaIndonesia -->
+            <!-- 02010205_BPJS -->
+         <!-- 020103_OfficialBrand -->
+         <!-- 020104_SearchProduct -->
+            <!-- 02010401_SearchByKeyword -->
+            <!-- 02010402_SearchByCategory -->
+      
+
+
+
+      <!-- 0202_Member -->
+            <!-- 020201_LoginPage -->
+			<GlobalVariableEntity>
+				<description></description>
+				<initValue>'https://m.bljstaging.com/member/login'</initValue>
+				<name>UrlLoginMobileLoginPage</name>
+			</GlobalVariableEntity>
+			<GlobalVariableEntity>
+				<description></description>
+				<initValue>'m.bljstaging.com/member/logout'</initValue>
+				<name>UrlLogoutLoginPage</name>
+			</GlobalVariableEntity>
+            <!-- 020202_BlanjaanSaya -->
+			<GlobalVariableEntity>
+				<description></description>
+				<initValue>'http://m.bljstaging.com/mobile/trades/index'</initValue>
+				<name>UrlOrderMemberListBlanjaanSaya</name>
+			</GlobalVariableEntity>
+			
+               <!-- 02020201_OrderDetail -->
+               <!-- 02020202_RefundDetail -->
+               <!-- 02020203_ApplyRefund -->
+            <!-- 020203_KoinBlanja -->
+            <!-- 020204_TagihanProdukDigital -->
+               <!-- 02020401_BillingDetail -->
+            <!-- 020205_Favorit -->
+            <!-- 020206_TanggapanSaya -->
+            <!-- 020207_Pesan -->
+            <!-- 020208_Alamat -->
+            <!-- 020209_Cashback -->
+            <!-- 020210_TCash -->
+      
+
+
+
+
+      <!-- 0203_Product -->
+         <!-- 020301_PDP -->
+		    <GlobalVariableEntity>
+				<description>Url ke produk reguler</description>
+				<initValue>'https://m.bljstaging.com/p/hnb/pantene-hairfall-control-shampo-sachet-19757047'</initValue>
+				<name>UrlRegulerMobilePDP</name>
+			</GlobalVariableEntity>
+         <!-- 020302_Store -->
+      
+
+
+
+
+      <!-- 0204_Trade -->
+         <!-- 020401_Cart -->
+		 <GlobalVariableEntity>
+				<description></description>
+				<initValue>''</initValue>
+				<name>SkuIdCart</name>
+			</GlobalVariableEntity>
+         <!-- 020402_OrderConfirm -->
+		    <GlobalVariableEntity>
+				<description></description>
+				<initValue>'Kurir Standar'</initValue>
+				<name>kurir</name>
+			</GlobalVariableEntity>
+         <!-- 020403_ThankYouPage -->
+
+   </GlobalVariableEntities>
+

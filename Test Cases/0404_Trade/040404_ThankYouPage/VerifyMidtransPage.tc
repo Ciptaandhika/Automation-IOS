@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify that system will direct to midtrans webview</description>
+   <name>VerifyMidtransPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f370ecfd-0366-48ee-ad41-d54dc6a45612</testCaseGuid>
+</TestCaseEntity>

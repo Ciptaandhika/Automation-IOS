@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that list of Koin History has been shown</description>
+   <name>VerifyKoinHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed921adc-e49e-4f64-9ffa-c7c75f5ec6fd</testCaseGuid>
+</TestCaseEntity>

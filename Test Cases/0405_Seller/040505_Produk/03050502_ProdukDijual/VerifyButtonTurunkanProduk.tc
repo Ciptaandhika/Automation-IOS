@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.2 system will not display button 'turunkan produk'</description>
+   <name>VerifyButtonTurunkanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04d18bf6-ce4f-4587-8285-8db22e6a02e5</testCaseGuid>
+</TestCaseEntity>

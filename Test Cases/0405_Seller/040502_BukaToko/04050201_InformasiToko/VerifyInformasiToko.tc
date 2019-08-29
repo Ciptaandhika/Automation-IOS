@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify button back
+verify text header
+verify step 'Informasi toko'
+verify title 'informasi toko'
+verify keterangan informasi toko</description>
+   <name>VerifyInformasiToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c865e84-ac93-4036-af0b-2558471886b0</testCaseGuid>
+</TestCaseEntity>

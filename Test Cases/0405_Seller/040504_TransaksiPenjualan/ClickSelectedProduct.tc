@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller click selected order</description>
+   <name>ClickSelectedProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb8d9d84-da69-4703-8fb5-2b52aed08fcf</testCaseGuid>
+</TestCaseEntity>

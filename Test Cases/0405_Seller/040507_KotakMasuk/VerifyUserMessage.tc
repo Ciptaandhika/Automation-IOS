@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Ensure user can see Product overview</description>
+   <name>VerifyUserMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd6962f8-99e1-4834-99b7-10f71461a579</testCaseGuid>
+</TestCaseEntity>

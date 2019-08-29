@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Link Aja payment method</description>
+   <name>VerifyLinkAjaBalanceTidakMencukupi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2aadb57e-62f8-4414-b51f-197d1f58c40e</testCaseGuid>
+</TestCaseEntity>

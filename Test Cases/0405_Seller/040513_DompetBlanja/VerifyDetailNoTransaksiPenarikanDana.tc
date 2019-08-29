@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Detail No Transaksi Penarikan Data</description>
+   <name>VerifyDetailNoTransaksiPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc3ae80e-e25b-4b14-a0c6-14fc42a8a451</testCaseGuid>
+</TestCaseEntity>

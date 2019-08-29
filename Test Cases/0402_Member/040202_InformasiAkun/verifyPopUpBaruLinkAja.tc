@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Halaman linkAja</description>
+   <name>verifyPopUpBaruLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b601d21-19f7-4384-b076-3588aeeb7650</testCaseGuid>
+</TestCaseEntity>

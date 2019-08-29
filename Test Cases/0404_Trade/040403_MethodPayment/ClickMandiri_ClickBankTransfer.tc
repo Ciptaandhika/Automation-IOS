@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on 'Mandiri' tab and choose on 'Kartu Kredit Cicilan' payment method</description>
+   <name>ClickMandiri_ClickBankTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b66bb43d-1e16-415f-af1d-1daba4fc770c</testCaseGuid>
+</TestCaseEntity>

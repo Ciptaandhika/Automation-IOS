@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Tap &quot;BELUM DIBACA&quot;</description>
+   <name>SwipePickerDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd4278fd-80d6-4db2-80a5-e98e56788a10</testCaseGuid>
+</TestCaseEntity>

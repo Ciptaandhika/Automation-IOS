@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Tap Variant section</description>
+   <name>TapTambahVarianEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d99d38b9-396c-423e-ac01-858d72882446</testCaseGuid>
+</TestCaseEntity>

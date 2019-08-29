@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>select pengiriman twice</description>
+   <name>PilihKurirFor2DifferentStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8df233f-0ef9-4e3b-b886-ec21f6be42d2</testCaseGuid>
+</TestCaseEntity>

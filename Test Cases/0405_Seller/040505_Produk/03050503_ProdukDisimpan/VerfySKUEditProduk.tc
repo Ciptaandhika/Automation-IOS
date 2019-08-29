@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input SKU with digit
+input SKU with character
+input SKU with symbol</description>
+   <name>VerfySKUEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f9ba896-7ba5-4ffd-9893-3408120ef1c7</testCaseGuid>
+</TestCaseEntity>

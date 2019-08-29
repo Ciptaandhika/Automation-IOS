@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Success register as a seller screen</description>
+   <name>VerifyBerhasilScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a99923c2-fffa-497d-bd9c-282e4275fb14</testCaseGuid>
+</TestCaseEntity>

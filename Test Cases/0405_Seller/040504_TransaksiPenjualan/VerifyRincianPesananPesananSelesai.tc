@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Verify Rincian Pesanan</description>
+   <name>VerifyRincianPesananPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c61bb5ed-d4c5-4fa3-a5f1-6df89374f99d</testCaseGuid>
+</TestCaseEntity>

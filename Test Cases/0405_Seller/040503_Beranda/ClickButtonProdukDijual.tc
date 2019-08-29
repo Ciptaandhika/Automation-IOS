@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>seller already access 'Product Dijual' page</description>
+   <name>ClickButtonProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88979a3d-c59c-4f81-a7f8-cf62e0158a9e</testCaseGuid>
+</TestCaseEntity>

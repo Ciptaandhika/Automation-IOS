@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Click on tooltip icon</description>
+   <name>TapTooltipIconDimensiProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6973ce91-9b16-4fbe-a6ea-c40a1943dddf</testCaseGuid>
+</TestCaseEntity>

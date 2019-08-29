@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Enter 'berat produk' (example: 1000)
+4. Choose 'satuan berat' (example: gram)
+5. Enter 'panjang' product (example: 50 cm)
+6. Enter 'Lebar' product (example: 30 cm)
+7. Enter 'Tinggi' product (example: 20cm)</description>
+   <name>VerifyKalkulasiPengirimanJikaBeratProdukLebihKecilDariDimensiProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc113ae-9992-41e8-9aca-f2d3bfce9e0d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.1 Blanja Logo should be displayed
+2.2 Username text fied will be displayed with hint text &quot;Username / Email / No. Telepon&quot;
+2.3 Password textfield will be displayed with hint text &quot;Password&quot;
+2.4 Masuk button will be displayed
+2.5 Facebook button will be displayed
+2.6 Google button will be displayed
+2.7 Lupa Password? button will be displayed
+2.8 &quot;Belum Punya akun Blanja ? Daftar disini&quot; will be displayed</description>
+   <name>VerifyLoginPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c727b3fa-67c6-4ed0-99dc-704220b11c2d</testCaseGuid>
+</TestCaseEntity>

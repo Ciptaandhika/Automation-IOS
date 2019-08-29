@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Store address section will be displayed
+4.1 User can enter the Store address</description>
+   <name>InputAlamatToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5fcf57a-0b96-4571-83cb-6fc5c5edeb91</testCaseGuid>
+</TestCaseEntity>

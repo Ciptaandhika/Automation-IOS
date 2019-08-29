@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify screen produk list</description>
+   <name>VerifyScreenProdukList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>137447a9-6115-4461-8f06-fefb049d7051</testCaseGuid>
+</TestCaseEntity>

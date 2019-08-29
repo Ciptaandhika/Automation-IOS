@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Menu Beranda</description>
+   <name>VerifyAllMenuBurger 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afae2a0e-41e2-4a41-bbd8-a1714c70d653</testCaseGuid>
+</TestCaseEntity>

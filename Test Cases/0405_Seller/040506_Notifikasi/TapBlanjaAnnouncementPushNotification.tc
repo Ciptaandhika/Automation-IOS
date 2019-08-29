@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Tap Announcmenet Push Notification</description>
+   <name>TapBlanjaAnnouncementPushNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e45423df-64a5-41d8-97be-5b111cdadd8a</testCaseGuid>
+</TestCaseEntity>

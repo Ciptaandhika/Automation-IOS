@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.2 Status Pesanan displayed = SELESAI</description>
+   <name>VerifyStatusPengirimanSELESAIPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d127b5fc-ef60-438f-b74c-4f5807c309b8</testCaseGuid>
+</TestCaseEntity>

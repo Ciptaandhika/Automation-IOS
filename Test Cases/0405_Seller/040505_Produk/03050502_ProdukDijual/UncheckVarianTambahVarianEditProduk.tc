@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Click on button 'Atur' 
+5. Check some varian Uncheck some varian
+6. Click on delete Simpan icon</description>
+   <name>UncheckVarianTambahVarianEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76d08f1f-81ec-4f7c-83ce-cda710ae83e3</testCaseGuid>
+</TestCaseEntity>

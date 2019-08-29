@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Then click selected order</description>
+   <name>ClickSelectedProductSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f20ddd91-1516-4fce-a6d7-3a3c993a2ed7</testCaseGuid>
+</TestCaseEntity>

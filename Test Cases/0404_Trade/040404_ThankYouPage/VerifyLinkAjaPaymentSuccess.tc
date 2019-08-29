@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>system will redirect to success page 'Bank Transfer' and show :
+Nomor Rekening Pembayaran</description>
+   <name>VerifyLinkAjaPaymentSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8aa40f7-affa-4c82-8aa4-15283a92fb40</testCaseGuid>
+</TestCaseEntity>

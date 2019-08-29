@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Motif Variant</description>
+   <name>ChooseMotifTambahVariantTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28e14641-41ab-442f-8930-e40d80bf529c</testCaseGuid>
+</TestCaseEntity>

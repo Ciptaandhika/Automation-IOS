@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 Information section will be displayed &quot;Belum Ada Pesan&quot;</description>
+   <name>VerifyBelumAdaPesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16aafffa-7d22-4969-ae76-6b52429a1bcf</testCaseGuid>
+</TestCaseEntity>

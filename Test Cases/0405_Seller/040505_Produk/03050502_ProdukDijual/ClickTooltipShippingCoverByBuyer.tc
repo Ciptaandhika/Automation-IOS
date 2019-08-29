@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Seller click tooltip</description>
+   <name>ClickTooltipShippingCoverByBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ccbd338-8c4e-4f1b-9e0b-be75a9ccd9b2</testCaseGuid>
+</TestCaseEntity>

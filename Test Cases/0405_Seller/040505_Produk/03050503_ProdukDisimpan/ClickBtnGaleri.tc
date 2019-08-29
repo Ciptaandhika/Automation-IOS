@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button galeri</description>
+   <name>ClickBtnGaleri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e03a0c2b-07f9-45cc-bd3f-2827585697c0</testCaseGuid>
+</TestCaseEntity>

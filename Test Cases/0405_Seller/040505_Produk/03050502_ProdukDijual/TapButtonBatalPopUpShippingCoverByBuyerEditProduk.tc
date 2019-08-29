@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Seller click on button 'Batal' on seller agreement</description>
+   <name>TapButtonBatalPopUpShippingCoverByBuyerEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecc5fef4-6fe0-4c6b-8715-7fd1cd65c14e</testCaseGuid>
+</TestCaseEntity>

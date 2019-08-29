@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Put notes for extend period send order</description>
+   <name>EnterNotesPerpanjangWaktuPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f02e65b6-4bb7-4c10-9ffa-1f9f8439baa4</testCaseGuid>
+</TestCaseEntity>

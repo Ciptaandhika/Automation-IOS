@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Warning 'Koin kosong' and button Blanja Sekarang has been shown</description>
+   <name>VerifyWarningKoinKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7636fa4-b593-42ec-8961-61fb8468b907</testCaseGuid>
+</TestCaseEntity>

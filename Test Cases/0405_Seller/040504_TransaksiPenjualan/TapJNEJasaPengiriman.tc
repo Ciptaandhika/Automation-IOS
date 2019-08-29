@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tap on JNE Reguler - Jasa Pengiriman</description>
+   <name>TapJNEJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cfd3673-2b5e-4d94-94f5-b77b74900a6c</testCaseGuid>
+</TestCaseEntity>

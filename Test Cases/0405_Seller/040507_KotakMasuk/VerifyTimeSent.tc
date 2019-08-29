@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.5 Ensure Time sent message will be displayed</description>
+   <name>VerifyTimeSent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f92e4b26-b945-4a0d-9be0-32a3ef694ecb</testCaseGuid>
+</TestCaseEntity>

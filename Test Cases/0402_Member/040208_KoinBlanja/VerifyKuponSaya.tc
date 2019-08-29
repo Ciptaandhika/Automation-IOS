@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Kupon saya</description>
+   <name>VerifyKuponSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50542f3b-61ea-4171-813f-42b12cd192d5</testCaseGuid>
+</TestCaseEntity>

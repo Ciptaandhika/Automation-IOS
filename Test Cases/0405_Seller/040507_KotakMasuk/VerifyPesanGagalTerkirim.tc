@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.4 Veriify error information will be displayed</description>
+   <name>VerifyPesanGagalTerkirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f630b4-c420-4235-b80b-43513448802c</testCaseGuid>
+</TestCaseEntity>

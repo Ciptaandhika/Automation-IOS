@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Click on Button &quot;PICK UP&quot;</description>
+   <name>TapButtonPickUpDriver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfabdd9d-edb9-45e9-85de-6b9e542c3c61</testCaseGuid>
+</TestCaseEntity>

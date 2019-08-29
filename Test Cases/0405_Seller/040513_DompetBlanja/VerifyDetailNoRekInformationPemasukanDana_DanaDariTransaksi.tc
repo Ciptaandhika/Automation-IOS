@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show 'no. rekening' information</description>
+   <name>VerifyDetailNoRekInformationPemasukanDana_DanaDariTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1105d78-0c5b-48ff-a32f-33a547d2dea1</testCaseGuid>
+</TestCaseEntity>

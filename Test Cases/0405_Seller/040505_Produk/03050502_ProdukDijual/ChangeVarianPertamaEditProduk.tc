@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Select one of varian
+8. Edit one of variant (color or stock)
+9. Tap Simpan button</description>
+   <name>ChangeVarianPertamaEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ce0df58-ea74-4c6e-9066-93d50ec8ed27</testCaseGuid>
+</TestCaseEntity>

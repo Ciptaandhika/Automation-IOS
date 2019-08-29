@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Produk Baru</description>
+   <name>SearchProdukBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e64ceafd-aace-4662-9a3c-e8406d6a8c08</testCaseGuid>
+</TestCaseEntity>

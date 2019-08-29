@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Order number will be displayed
+3.2 Variant user has been choosen
+3,3 Product price will be displayed
+3.4 Qty will be displayed</description>
+   <name>VerifyInformationOfOrderDibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2ce0424-13b6-4b8e-871b-3f469284656a</testCaseGuid>
+</TestCaseEntity>

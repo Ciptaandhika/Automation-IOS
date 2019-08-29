@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Biaya cicilan = total payment / ((100-mdr)/100)) - total payment
+ - Total Buyer Paid should be added from Biaya Cicilan</description>
+   <name>VerifyEstimasiCicilanKartuKreditPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbeba237-cc1f-4daa-abb5-cf5aebaeb0ad</testCaseGuid>
+</TestCaseEntity>

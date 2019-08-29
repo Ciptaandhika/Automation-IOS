@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Enter 'panjang' product
+6. Enter 'Lebar' product
+7. Enter 'Tinggi' product</description>
+   <name>FillDimensiProdukPengirimanEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62f0eb5d-0d3e-4abf-b0c3-ec0e6340c07d</testCaseGuid>
+</TestCaseEntity>

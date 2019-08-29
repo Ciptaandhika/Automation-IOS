@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik linkAja di profile</description>
+   <name>tapLinkAja - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac571e2d-3167-4ffe-a1c8-f0a61d378b09</testCaseGuid>
+</TestCaseEntity>

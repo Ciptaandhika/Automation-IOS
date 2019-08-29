@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DompetBlanjaCashbackLinkAja</description>
+   <name>verifyEnableDompetBlanjaCashbackLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f760cfc2-11a7-4200-bd58-fd9dcf19a25e</testCaseGuid>
+</TestCaseEntity>

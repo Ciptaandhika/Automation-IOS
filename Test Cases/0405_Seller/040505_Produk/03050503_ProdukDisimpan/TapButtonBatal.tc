@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>8. Tap Batal Button</description>
+   <name>TapButtonBatal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee3a57a8-fef3-4ec6-9884-4cb5c1ae0947</testCaseGuid>
+</TestCaseEntity>

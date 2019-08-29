@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Seller click on menu 'Tambah Foto'</description>
+   <name>TapTambahFotoEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a44b754c-e7b6-4183-bd31-8550c097cbd0</testCaseGuid>
+</TestCaseEntity>

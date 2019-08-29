@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Kirim Kode Verifikasi</description>
+   <name>ClickKirimKodeVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7f69b23-9684-41b6-87d4-68257fde9c58</testCaseGuid>
+</TestCaseEntity>

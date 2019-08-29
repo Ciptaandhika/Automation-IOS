@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click No Pemesanan</description>
+   <name>ClickDetailNoPemesananPemasukanDana_DanaDariTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dc975d1-2c85-44f2-b5cc-1311c48ea6ba</testCaseGuid>
+</TestCaseEntity>

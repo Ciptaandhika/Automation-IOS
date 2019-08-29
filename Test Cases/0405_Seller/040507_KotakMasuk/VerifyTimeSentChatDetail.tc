@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.5 Time sent message will be displayed</description>
+   <name>VerifyTimeSentChatDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac4bd45e-f694-46ab-b21d-d86db2513f6e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify LinkAja</description>
+   <name>verifySaldoLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf1b8b22-e238-419a-bfa7-b5c6df066e70</testCaseGuid>
+</TestCaseEntity>

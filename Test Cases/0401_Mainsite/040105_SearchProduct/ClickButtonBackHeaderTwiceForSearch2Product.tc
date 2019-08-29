@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickButtonBackHeader</description>
+   <name>ClickButtonBackHeaderTwiceForSearch2Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fcffc44-76c0-4a7c-85f1-12535a04edd5</testCaseGuid>
+</TestCaseEntity>

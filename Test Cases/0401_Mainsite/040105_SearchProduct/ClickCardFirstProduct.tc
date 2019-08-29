@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click First Product Card</description>
+   <name>ClickCardFirstProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d619c8f3-886d-4941-8950-25093b925753</testCaseGuid>
+</TestCaseEntity>

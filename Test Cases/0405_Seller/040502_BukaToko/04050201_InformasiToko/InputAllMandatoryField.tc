@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Enter Store owner name
+3.2 Enter Phone number
+3.3 Enter Store name
+3.4 Enter Url store
+3.5 Enter Store Description
+3.6 Enter Store Address
+3.7 Select Province
+3.8 Select City
+3.9 Select district
+3.10 Enter Postal code
+4.1 Lanjutkan button can be tapped
+4.2 If validation success user will redirect to confirmation data seller</description>
+   <name>InputAllMandatoryField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8d279a4-b0e0-4292-b7e2-78dd71c2145d</testCaseGuid>
+</TestCaseEntity>

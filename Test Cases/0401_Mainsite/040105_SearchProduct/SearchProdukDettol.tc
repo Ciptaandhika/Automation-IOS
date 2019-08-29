@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search product </description>
+   <name>SearchProdukDettol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>815a52a7-ecee-494c-943e-e10b4313a736</testCaseGuid>
+</TestCaseEntity>

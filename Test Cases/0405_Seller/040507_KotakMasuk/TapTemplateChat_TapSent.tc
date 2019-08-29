@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.1 Tap on one of template
+5.2 Ensure message sent</description>
+   <name>TapTemplateChat_TapSent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e2b361f-f205-4fb7-bba5-9bbad35292b5</testCaseGuid>
+</TestCaseEntity>

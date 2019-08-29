@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure seller able to click on button 'Pilih' on 'kategori'</description>
+   <name>TapButtonKategoriTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf8ce4d4-4955-4b28-abf9-9703ac5a970a</testCaseGuid>
+</TestCaseEntity>

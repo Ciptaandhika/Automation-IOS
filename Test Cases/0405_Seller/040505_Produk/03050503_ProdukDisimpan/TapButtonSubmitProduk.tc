@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Tap &quot;Submit Produk&quot;'</description>
+   <name>TapButtonSubmitProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42a6bd05-2f0c-4816-a759-fd6c0a6b2ef9</testCaseGuid>
+</TestCaseEntity>

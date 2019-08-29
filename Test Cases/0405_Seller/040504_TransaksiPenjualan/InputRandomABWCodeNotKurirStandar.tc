@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Enter AWB Code</description>
+   <name>InputRandomABWCodeNotKurirStandar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac09e9e0-0477-4c0c-b922-0a486afd3e2f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search input wrong Nomor Pesanan</description>
+   <name>SearchInputWrongNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2cb4de7-9a60-4493-9eeb-d73ac01d2983</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7.3 buyer can check details order on order list and order details, and sytem show payment information as 'Debit Online</description>
+   <name>VerifyMetodePembayaranBNIDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38f8e35d-56c2-4bb9-93cd-b10e057d1552</testCaseGuid>
+</TestCaseEntity>

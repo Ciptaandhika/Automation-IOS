@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.1 &quot;X&quot; icon can ve tapped</description>
+   <name>TapXButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e253c091-9033-4571-ac12-ce6882de455f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search nothing</description>
+   <name>SearchInputNoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d73d59bc-cbaf-4ec7-81bc-ada14bc027d4</testCaseGuid>
+</TestCaseEntity>

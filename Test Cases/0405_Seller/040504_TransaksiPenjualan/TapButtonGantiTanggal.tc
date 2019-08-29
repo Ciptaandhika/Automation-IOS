@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Click on button 'Ganti tanggal'</description>
+   <name>TapButtonGantiTanggal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ac9aae7-3240-4a1c-9e58-90896d4e96f2</testCaseGuid>
+</TestCaseEntity>

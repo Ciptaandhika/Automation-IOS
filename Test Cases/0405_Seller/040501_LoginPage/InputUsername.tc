@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tap txtBox username
+input username</description>
+   <name>InputUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c04e098f-cf63-44db-862f-d367f58d461b</testCaseGuid>
+</TestCaseEntity>

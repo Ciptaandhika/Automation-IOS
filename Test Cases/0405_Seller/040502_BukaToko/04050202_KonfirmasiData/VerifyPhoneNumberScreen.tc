@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Verification phone number screen</description>
+   <name>VerifyPhoneNumberScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ee24aed-7bfe-41a2-bc85-3254542aba3a</testCaseGuid>
+</TestCaseEntity>

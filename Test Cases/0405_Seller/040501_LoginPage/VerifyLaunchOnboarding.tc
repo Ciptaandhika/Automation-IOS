@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.1 Onboarding screen will be displayed
+2.1 Onboarding  will be displayed
+2.2 Button Selanjutya displayed
+2.3 Lewatkan will be displayed</description>
+   <name>VerifyLaunchOnboarding</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d102e4bd-6250-4503-9774-497da340c60e</testCaseGuid>
+</TestCaseEntity>

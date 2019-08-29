@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Clear input text search</description>
+   <name>ClearTextSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd33f7a4-ebfa-4e39-8779-193ffd5a6974</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access  &quot;SELESAI&quot; tab</description>
+   <name>ClickBurgerMenu_ClickTransaksiPenjualan_ClickSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a025bcae-5947-40b3-9383-d62ffaf3f6f4</testCaseGuid>
+</TestCaseEntity>

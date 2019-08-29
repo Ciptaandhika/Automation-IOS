@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show error information 'Maksimal upload 5 foto product'</description>
+   <name>VerifyMaksimumUpload5FotoProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a826742-7227-437f-a069-bd7e9ea98990</testCaseGuid>
+</TestCaseEntity>

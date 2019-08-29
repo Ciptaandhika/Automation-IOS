@@ -1,0 +1,59 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+
+Mobile.delay(15)
+
+int width = Mobile.getDeviceWidth()
+
+int height = Mobile.getDeviceHeight()
+
+int a = width / 2
+
+int b = height - 100
+
+int c = a
+
+int d = b - 250
+
+Mobile.swipe(a, b, c, d)
+
+Mobile.tap(findTestObject('0404_Trade/030402_OrderConfrim/cmbxPilihKurir'), 0)
+
+Mobile.delay(5)
+
+Mobile.swipe(a, b, c, b - 50)
+
+try {
+    Mobile.tap(findTestObject('0405_Seller/040505_Produk/03050502_ProdukDijual/btnDoneSpinner'), 0)
+}
+catch (Exception error) {
+} 
+
+Mobile.delay(10)
+
+Mobile.swipe(a, b, c, d)
+
+Mobile.tap(findTestObject('0404_Trade/030402_OrderConfrim/cmbxPilihKurir'), 0)
+
+Mobile.delay(5)
+
+Mobile.swipe(a, b, c, b - 50)
+
+try {
+    Mobile.tap(findTestObject('0405_Seller/040505_Produk/03050502_ProdukDijual/btnDoneSpinner'), 0)
+}
+catch (Exception error) {
+} 
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure seller able to fill product name with minimal 1 character and maximum 110 character</description>
+   <name>ChangeProductNameWith120CharacterTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>189235a6-31be-45c8-82cb-9444e7925f68</testCaseGuid>
+</TestCaseEntity>

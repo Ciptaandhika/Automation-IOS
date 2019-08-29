@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.Tap Push notification</description>
+   <name>TapPermintaanPerpanjanganWaktuKirimDisetujuiPushNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f09a3cd2-df2c-4dac-82d0-344dc687ff86</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify 'Detail Pengiriman' in menu 'On Shelf '</description>
+   <name>VerifyPengirimanEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d58b1880-81c5-4290-9e51-21db946f9eb6</testCaseGuid>
+</TestCaseEntity>

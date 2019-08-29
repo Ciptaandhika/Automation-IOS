@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Detail Nama Bank Penarikan Data</description>
+   <name>VerifyDetailNamaBankPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac0131bf-337a-4144-ade3-793b85ac59ae</testCaseGuid>
+</TestCaseEntity>

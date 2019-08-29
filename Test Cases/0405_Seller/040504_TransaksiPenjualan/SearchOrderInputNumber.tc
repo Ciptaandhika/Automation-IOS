@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search order by input order number</description>
+   <name>SearchOrderInputNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7ad2355-8c90-4996-b4a0-b0da80e095e5</testCaseGuid>
+</TestCaseEntity>

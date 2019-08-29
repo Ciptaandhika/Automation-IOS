@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify this coupon has been used</description>
+   <name>VerifyThisCouponHasBeenUsed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a28db2b-a7a7-43b5-9c9d-deac3f78b9f7</testCaseGuid>
+</TestCaseEntity>

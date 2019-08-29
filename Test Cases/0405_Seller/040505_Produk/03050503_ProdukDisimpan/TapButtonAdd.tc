@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Tap Add icon</description>
+   <name>TapButtonAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c077a91f-3b7b-4e38-968a-1fa2a81b86a6</testCaseGuid>
+</TestCaseEntity>

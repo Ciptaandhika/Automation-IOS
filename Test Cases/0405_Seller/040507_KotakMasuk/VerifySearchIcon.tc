@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.2 Search icon will be displayed as title of screen</description>
+   <name>VerifySearchIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>febe4396-6d71-4244-b97c-5dd5fadeb051</testCaseGuid>
+</TestCaseEntity>

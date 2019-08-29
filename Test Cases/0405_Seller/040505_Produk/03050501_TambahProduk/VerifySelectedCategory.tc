@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6.3 System will show updated category</description>
+   <name>VerifySelectedCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7e35884-ee82-4e6a-8356-b8d8c0d4b839</testCaseGuid>
+</TestCaseEntity>

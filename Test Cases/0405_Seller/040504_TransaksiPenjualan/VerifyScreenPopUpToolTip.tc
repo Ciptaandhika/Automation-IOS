@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify screen tool tip</description>
+   <name>VerifyScreenPopUpToolTip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0772d624-f4ac-41ce-a9f5-728f1a9239cc</testCaseGuid>
+</TestCaseEntity>

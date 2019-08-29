@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click icon burger menu</description>
+   <name>ClickBurgerMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce6a986-4446-4976-873f-850287361f3a</testCaseGuid>
+</TestCaseEntity>

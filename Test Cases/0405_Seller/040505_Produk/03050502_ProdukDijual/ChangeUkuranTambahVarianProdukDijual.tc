@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose varian 'Ukuran'</description>
+   <name>ChangeUkuranTambahVarianProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9fe0aab-8e7e-4ec2-a845-003ae787bc99</testCaseGuid>
+</TestCaseEntity>

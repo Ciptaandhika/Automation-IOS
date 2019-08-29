@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button kirim pesanan</description>
+   <name>ClickButtonKirimPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d90ff2c7-03ef-45e3-b068-93bcd63349e9</testCaseGuid>
+</TestCaseEntity>

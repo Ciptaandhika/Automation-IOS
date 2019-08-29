@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Lihat Lainnya pada bagian Hadiah Undian</description>
+   <name>HadiahUndian_ClickLihatLainnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8776b063-4595-4aba-b506-b6628ee1cfaf</testCaseGuid>
+</TestCaseEntity>

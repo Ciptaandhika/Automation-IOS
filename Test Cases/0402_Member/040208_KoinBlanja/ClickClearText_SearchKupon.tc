@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click X button in Search field</description>
+   <name>ClickClearText_SearchKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>652b3559-dca0-4980-9c64-b082f2a3b62b</testCaseGuid>
+</TestCaseEntity>

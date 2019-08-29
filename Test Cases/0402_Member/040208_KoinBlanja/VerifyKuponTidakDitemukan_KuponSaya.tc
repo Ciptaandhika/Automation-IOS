@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that &quot;Oo-Ow! ,Kami tidak menemukan 
+ kupon yang kamu cari&quot; has been shown</description>
+   <name>VerifyKuponTidakDitemukan_KuponSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00d6cc9a-1c24-4d2e-ac34-cea7af2e9b6b</testCaseGuid>
+</TestCaseEntity>

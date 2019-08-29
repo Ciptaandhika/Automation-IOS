@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Summary Order</description>
+   <name>VerifySummaryOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>508c0316-5835-4fb7-882a-f283824c6f7d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.1 &quot;Belum dinilai oleh pembeli&quot; text will be displayed if buyer not yet give the feedback
+4.2 The Comment Feedback will be displayed
+4.3 The Rate &quot;Produk (Star 1-5) will be displayed
+4.4 The Rate &quot;Pelayanan (Star 1-5) will be displayed
+4.4 The Rate &quot;Pengiriman (Star 1-5) will be displayed</description>
+   <name>VerifyPenilaianPembeliPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec6116ee-fecc-4cc7-88cc-29a3ff037d5f</testCaseGuid>
+</TestCaseEntity>

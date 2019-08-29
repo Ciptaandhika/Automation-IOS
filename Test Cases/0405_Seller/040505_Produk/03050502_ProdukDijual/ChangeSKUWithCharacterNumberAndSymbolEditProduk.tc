@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.1 User can enter SKU with digit
+2.2 User can enter SKU with character
+3.1 User can't input Symbol</description>
+   <name>ChangeSKUWithCharacterNumberAndSymbolEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70595e70-58d8-4302-af66-9bf5ce0d06d8</testCaseGuid>
+</TestCaseEntity>

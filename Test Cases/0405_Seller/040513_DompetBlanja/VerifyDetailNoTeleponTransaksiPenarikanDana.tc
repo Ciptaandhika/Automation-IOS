@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Detail Nomor Telepon Transaksi Penarikan Data</description>
+   <name>VerifyDetailNoTeleponTransaksiPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78eee36b-db8e-4f64-b268-85f791a6371d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kirim</description>
+   <name>KirimPenilaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1920f6c4-5c59-4c21-ba6d-d846b712b756</testCaseGuid>
+</TestCaseEntity>

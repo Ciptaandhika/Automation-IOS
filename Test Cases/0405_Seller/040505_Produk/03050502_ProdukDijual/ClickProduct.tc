@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik selected product (click on anything, except button 'Turunkan Produk'</description>
+   <name>ClickProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e63ba382-eb98-4521-adc7-75ce2fe0eaf7</testCaseGuid>
+</TestCaseEntity>

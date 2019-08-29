@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure Buyer can order product from 1 store and paid using BNI Debit Online</description>
+   <name>ClickBNI_ClickDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cba626d-13da-4e08-917d-9bef54b888c8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Enter price</description>
+   <name>FillHargaProdukVarianTambahVarianTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dd60a2f-6e77-4039-beb2-974b8a889a10</testCaseGuid>
+</TestCaseEntity>

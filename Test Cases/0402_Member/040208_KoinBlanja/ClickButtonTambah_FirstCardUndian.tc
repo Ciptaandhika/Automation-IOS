@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Button Tambah</description>
+   <name>ClickButtonTambah_FirstCardUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b624db4c-73d1-4f09-a2a2-02e08f433398</testCaseGuid>
+</TestCaseEntity>

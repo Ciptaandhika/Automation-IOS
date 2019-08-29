@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Enter product name</description>
+   <name>FillProductNameTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e9fb024-8dd7-44fd-a04d-3ce694fd8171</testCaseGuid>
+</TestCaseEntity>

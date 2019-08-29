@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Search varian 'Warna' (example: putih)</description>
+   <name>SearchWarnaTambahVarianTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4d8317e-480f-43e6-8db6-31c980e897f3</testCaseGuid>
+</TestCaseEntity>

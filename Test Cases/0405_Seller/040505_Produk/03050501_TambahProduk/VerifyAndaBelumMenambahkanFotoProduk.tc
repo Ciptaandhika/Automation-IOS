@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show error validation 'Anda belum menambahkan foto produk''</description>
+   <name>VerifyAndaBelumMenambahkanFotoProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce71eb3-8f42-4426-8ba0-6330cb1e7906</testCaseGuid>
+</TestCaseEntity>

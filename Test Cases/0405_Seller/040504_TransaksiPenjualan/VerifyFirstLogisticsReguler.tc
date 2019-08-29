@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.3 Penyedia Jasa Pengiriman Option displayed &quot;First Logistic&quot; with disable field 
+3.4 &quot;Layanan Pengiriman&quot; displayed &quot;Reguler&quot; with disable field</description>
+   <name>VerifyFirstLogisticsReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41ffed9b-cf8e-4b86-83fb-2167de036c49</testCaseGuid>
+</TestCaseEntity>

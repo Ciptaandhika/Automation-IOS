@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.2  Layanan Pengiriman displayed (Kurir Standar/JNE/etc)</description>
+   <name>VerifyLayananPengirimanPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cab72bbd-e92d-4a24-8721-bae75295ba3a</testCaseGuid>
+</TestCaseEntity>

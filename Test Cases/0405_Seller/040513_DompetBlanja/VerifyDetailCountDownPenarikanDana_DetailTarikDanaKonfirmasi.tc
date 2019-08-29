@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will show countdown</description>
+   <name>VerifyDetailCountDownPenarikanDana_DetailTarikDanaKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5537641-22ab-4f2c-bf7c-bcc946020b05</testCaseGuid>
+</TestCaseEntity>

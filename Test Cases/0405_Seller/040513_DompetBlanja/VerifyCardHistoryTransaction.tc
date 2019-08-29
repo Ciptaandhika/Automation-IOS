@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Sisa Saldo</description>
+   <name>VerifyCardHistoryTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d8ae481-a930-4898-a730-83a2ff27e3ae</testCaseGuid>
+</TestCaseEntity>

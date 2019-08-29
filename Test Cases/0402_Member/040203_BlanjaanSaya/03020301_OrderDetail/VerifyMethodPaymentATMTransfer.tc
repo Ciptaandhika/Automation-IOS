@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.3 for each order buyer can check details order on order list and order details, and sytem show payment information as 'ATM Transfer'</description>
+   <name>VerifyMethodPaymentATMTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f69d5fd0-535e-4720-9a2e-7d2d33476c0b</testCaseGuid>
+</TestCaseEntity>

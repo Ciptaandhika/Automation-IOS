@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Tap Penyedia Jasa Pengiriman dropdown</description>
+   <name>TapPenyediaJasaDropDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fcc504d-5030-40fa-8e2c-e1e080942224</testCaseGuid>
+</TestCaseEntity>

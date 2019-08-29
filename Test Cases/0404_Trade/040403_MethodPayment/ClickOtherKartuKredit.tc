@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click on 'Kartu Kredit' payment</description>
+   <name>ClickOtherKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a0c1174-f88a-4656-9133-272591c19d77</testCaseGuid>
+</TestCaseEntity>

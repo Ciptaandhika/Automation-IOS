@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Search varian 'Warna' (example: jingga)
+5. Click on 'Ya, Ubah.'</description>
+   <name>AddNewColorVarianTambahVarianEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb3476eb-34d7-44fb-a1de-54d7c2c05478</testCaseGuid>
+</TestCaseEntity>

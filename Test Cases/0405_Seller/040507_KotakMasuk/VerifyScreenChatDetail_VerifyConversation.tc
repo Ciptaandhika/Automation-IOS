@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.1 Ensure user redirect to detail chat page
+4.2 Ensure user can see conversation</description>
+   <name>VerifyScreenChatDetail_VerifyConversation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea289a59-c723-4338-aa57-0ac7c1d9150b</testCaseGuid>
+</TestCaseEntity>

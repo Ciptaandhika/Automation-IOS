@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Verify Push notification displayed</description>
+   <name>VerifikasiPushNotifikasiPesanBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44d9e512-846a-4ddf-9bac-540aed3c5161</testCaseGuid>
+</TestCaseEntity>

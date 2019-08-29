@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ada Linkaja</description>
+   <name>verifyLinkAjaPaymentSaldoKurang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08921bf9-c108-47ff-a72a-3a5b0f2ce58c</testCaseGuid>
+</TestCaseEntity>

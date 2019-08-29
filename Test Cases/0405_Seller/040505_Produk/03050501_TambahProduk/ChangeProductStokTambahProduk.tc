@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Change stock</description>
+   <name>ChangeProductStokTambahProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a08f798-48b4-4481-9d0d-7d2b1d64910a</testCaseGuid>
+</TestCaseEntity>

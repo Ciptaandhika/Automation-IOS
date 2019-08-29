@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Tap Lihat hyperlink button</description>
+   <name>TapLihatRiwayatPesananPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>415c0e11-b13c-40cd-af00-76d67e25c758</testCaseGuid>
+</TestCaseEntity>

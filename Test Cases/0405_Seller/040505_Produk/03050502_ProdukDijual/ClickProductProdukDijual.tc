@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click selected product</description>
+   <name>ClickProductProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84fade01-346b-44a1-ab39-b031997d4dec</testCaseGuid>
+</TestCaseEntity>

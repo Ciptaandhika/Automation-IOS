@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Click on button 'Simpan'</description>
+   <name>TapButtonSimpanSpesifikasiEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd71eab2-187e-45a8-b657-82d7c44697ef</testCaseGuid>
+</TestCaseEntity>

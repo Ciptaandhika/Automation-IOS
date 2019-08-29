@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. After 10 product, seller swipe up the screen</description>
+   <name>SwipeUpProdukDijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31d00186-5036-445f-bd7d-27c4841c23a9</testCaseGuid>
+</TestCaseEntity>

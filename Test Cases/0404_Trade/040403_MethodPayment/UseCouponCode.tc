@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, user input thematic code coupon on kupon blanja field
+  e.g :
+  product name :
+  code coupon :
+  value coupon :
+  exclude : all promotion
+ 2. click on 'USE' button</description>
+   <name>UseCouponCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a3ca4e6-3fde-4881-b0e1-1eab64aa7782</testCaseGuid>
+</TestCaseEntity>

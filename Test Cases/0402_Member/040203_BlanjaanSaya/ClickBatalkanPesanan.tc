@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. on Order List, click on 'Batalkan Pesanan' button for those selected order</description>
+   <name>ClickBatalkanPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>145d47a7-6e60-4dbe-8c70-48361d0bc0fe</testCaseGuid>
+</TestCaseEntity>

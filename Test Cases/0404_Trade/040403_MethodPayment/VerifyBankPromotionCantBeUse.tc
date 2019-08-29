@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Alert message appear 'Promo ini tidak bisa digunakan untuk transaksi Anda. Silahkan cek syarat dan ketentuan promo</description>
+   <name>VerifyBankPromotionCantBeUse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55da797e-83cd-4479-b7f8-305801b0429b</testCaseGuid>
+</TestCaseEntity>

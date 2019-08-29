@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify koin blanja berkurang</description>
+   <name>VerifyKoinBlanjaIsZero</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1228931-f801-4ca9-b33e-59e724bb5894</testCaseGuid>
+</TestCaseEntity>

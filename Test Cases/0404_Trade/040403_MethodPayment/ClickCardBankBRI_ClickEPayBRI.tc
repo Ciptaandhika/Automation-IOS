@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click card bank BRI
+click e-pay BRI</description>
+   <name>ClickCardBankBRI_ClickEPayBRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>734d047e-b43f-4e85-8aab-8f765d1118de</testCaseGuid>
+</TestCaseEntity>

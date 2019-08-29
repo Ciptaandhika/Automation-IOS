@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verifyAllDisableExceptDompetBlanjaCashbackLinkAja</description>
+   <name>verifyOthersPaymentMethodDisabledExceptLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efb8a57b-0ac9-44a5-900e-4d627f603436</testCaseGuid>
+</TestCaseEntity>

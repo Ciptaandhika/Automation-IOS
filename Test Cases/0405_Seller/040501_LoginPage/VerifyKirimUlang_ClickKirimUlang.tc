@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify href 'Kirim ulang'
+click href 'Kirim ulang'
+verify 'Kirim ulang setelah ..'</description>
+   <name>VerifyKirimUlang_ClickKirimUlang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e05d10fc-e128-4a74-bfa0-67dd0a37af50</testCaseGuid>
+</TestCaseEntity>

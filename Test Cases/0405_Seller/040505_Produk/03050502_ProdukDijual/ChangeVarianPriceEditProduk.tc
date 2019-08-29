@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Enter price</description>
+   <name>ChangeVarianPriceEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d22766c2-6bb5-423b-aeeb-9a34a6dba0e2</testCaseGuid>
+</TestCaseEntity>

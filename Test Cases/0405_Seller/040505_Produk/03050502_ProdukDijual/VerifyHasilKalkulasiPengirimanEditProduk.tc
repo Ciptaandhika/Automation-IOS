@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will calculate dimensi produk:
+(panjang * lebar * tinggi) / (6000) * 1kg
+in this case:
+(50*30*20) / (6000) * 1 kg=
+(30.000 / 6000) * 1 kg=
+5 kg</description>
+   <name>VerifyHasilKalkulasiPengirimanEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f1730cc-2b8d-4c4e-9620-884710948938</testCaseGuid>
+</TestCaseEntity>

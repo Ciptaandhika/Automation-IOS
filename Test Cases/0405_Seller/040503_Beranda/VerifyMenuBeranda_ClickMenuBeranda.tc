@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify Menu Beranda
+- Click Menu Beranda</description>
+   <name>VerifyMenuBeranda_ClickMenuBeranda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b4c2118-798c-4652-9b89-482b7105c6b5</testCaseGuid>
+</TestCaseEntity>

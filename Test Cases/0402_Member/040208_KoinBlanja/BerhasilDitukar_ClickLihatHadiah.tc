@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After redeem success, klik Lihat Hadiah</description>
+   <name>BerhasilDitukar_ClickLihatHadiah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e9d111f-7715-4d65-8336-c41ef63bb990</testCaseGuid>
+</TestCaseEntity>

@@ -1,1 +1,1 @@
-# Automation-IOS
+mp2-blanja-qa-automation-ios

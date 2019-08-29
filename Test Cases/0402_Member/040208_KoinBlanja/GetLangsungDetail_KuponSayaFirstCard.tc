@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get coupon Detail</description>
+   <name>GetLangsungDetail_KuponSayaFirstCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7ca5e30-a528-4721-a605-033694e3ef4e</testCaseGuid>
+</TestCaseEntity>

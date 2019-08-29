@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Radio Button No Telepon</description>
+   <name>ClickRadioNoTelepon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7b0a4e3-caa1-4335-b9ce-82747dc2cc0a</testCaseGuid>
+</TestCaseEntity>

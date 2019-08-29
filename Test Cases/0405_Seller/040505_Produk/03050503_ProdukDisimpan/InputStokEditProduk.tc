@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input stok produk</description>
+   <name>InputStokEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0dffe66-9539-45cb-b55e-0d011d141f34</testCaseGuid>
+</TestCaseEntity>

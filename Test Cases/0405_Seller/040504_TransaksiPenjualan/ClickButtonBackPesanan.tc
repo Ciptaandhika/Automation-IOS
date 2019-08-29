@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click button back on ' Pesanan ' screen</description>
+   <name>ClickButtonBackPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f48ca788-3191-48d4-b329-6061a10e98f0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter produk name
+tap done keyboard</description>
+   <name>SearchProdukSunsilk5k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35665b00-680a-49b4-93cd-0f654e57e8d2</testCaseGuid>
+</TestCaseEntity>

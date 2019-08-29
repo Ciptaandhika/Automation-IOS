@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On payment page, buyer want combine paid order using VA in case VA balance is not enough for total amount</description>
+   <name>VerifySaldoDompetBlanjaTidakMencukupi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f3dcf7d-c9ed-48d2-a96e-7b4702b44ad9</testCaseGuid>
+</TestCaseEntity>

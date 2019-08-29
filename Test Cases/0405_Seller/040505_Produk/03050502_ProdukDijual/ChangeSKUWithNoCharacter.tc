@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Dont Enter product SKU</description>
+   <name>ChangeSKUWithNoCharacter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5f4e4b7-1992-4993-9440-46cd50085f60</testCaseGuid>
+</TestCaseEntity>

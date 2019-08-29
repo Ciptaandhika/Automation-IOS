@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer enter thematic coupon</description>
+   <name>UseThematicCouponCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44c6d9da-28ed-4bf6-968a-96d2fbbf14e6</testCaseGuid>
+</TestCaseEntity>

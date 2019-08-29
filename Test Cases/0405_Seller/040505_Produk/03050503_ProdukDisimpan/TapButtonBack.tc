@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Tap Back button</description>
+   <name>TapButtonBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b4c5c3a-7575-4461-8acb-67e2c33e05b9</testCaseGuid>
+</TestCaseEntity>

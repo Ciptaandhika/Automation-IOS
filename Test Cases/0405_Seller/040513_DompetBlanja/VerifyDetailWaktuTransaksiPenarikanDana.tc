@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Detail Waktu Transaksi Penarikan Data</description>
+   <name>VerifyDetailWaktuTransaksiPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c54a4102-c5de-45b0-9a6c-6a88d28d8392</testCaseGuid>
+</TestCaseEntity>

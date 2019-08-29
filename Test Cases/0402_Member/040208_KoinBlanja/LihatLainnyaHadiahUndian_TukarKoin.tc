@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik button tukar
+2. Konfirmasi tukar koin dengan kupon undian</description>
+   <name>LihatLainnyaHadiahUndian_TukarKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52874d59-c99b-4ee2-997d-9e2d0c49e47c</testCaseGuid>
+</TestCaseEntity>

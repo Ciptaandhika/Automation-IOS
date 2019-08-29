@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 Postal code textfield displayed
+3.2 User can enter this text field</description>
+   <name>InputKodePos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9716297-34c6-434c-88f2-b92028209434</testCaseGuid>
+</TestCaseEntity>

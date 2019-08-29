@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.2  Tipe Pembayaran will be displayed</description>
+   <name>VerifyTipePembayaranPesananSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74b7630f-7d26-44f0-9dc6-4e96f9c46d84</testCaseGuid>
+</TestCaseEntity>

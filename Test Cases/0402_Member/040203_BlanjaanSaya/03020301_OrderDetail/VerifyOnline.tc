@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Online Label</description>
+   <name>VerifyOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24db70cd-4f39-4804-827f-6a772f1493ac</testCaseGuid>
+</TestCaseEntity>

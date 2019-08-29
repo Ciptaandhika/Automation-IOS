@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 For v1.0, system will display validation message as 'Maaf, kategori yang anda pilih belum bisa tambah produk'</description>
+   <name>VerifyTidakBisaMemilihKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f99ddeec-69d1-41be-936e-1b638d7062fb</testCaseGuid>
+</TestCaseEntity>

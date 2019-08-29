@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure user can tap search icon</description>
+   <name>TapButtonSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b31c8e7-b3cf-4a89-bd38-be1edb355df6</testCaseGuid>
+</TestCaseEntity>

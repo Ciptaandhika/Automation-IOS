@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.2 User will navigated to Edit screen</description>
+   <name>VerifyScreenEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe46de16-c7c6-45cf-9e93-76a4e8f2bc55</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify button Kamera
+Verify button Galeri</description>
+   <name>VerifyBtnKamera_VerifyBtnGaleri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e18740d6-510e-44d2-b2f5-fe858977a5ad</testCaseGuid>
+</TestCaseEntity>

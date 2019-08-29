@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify txtBox no telp
+set text no telp
+delete inputan no telp
+click button lanjutkan untuk memastikan text box no telp mandatory</description>
+   <name>VerifyNoTelp_InputNoTelp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbb54188-87c3-428b-91d9-e8c9c9069d6d</testCaseGuid>
+</TestCaseEntity>

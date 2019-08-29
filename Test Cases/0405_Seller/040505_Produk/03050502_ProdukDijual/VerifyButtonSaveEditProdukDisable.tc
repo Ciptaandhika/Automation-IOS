@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5.1 Button save deactive</description>
+   <name>VerifyButtonSaveEditProdukDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f86ec3aa-b27c-4348-a421-81b60e2a3d95</testCaseGuid>
+</TestCaseEntity>

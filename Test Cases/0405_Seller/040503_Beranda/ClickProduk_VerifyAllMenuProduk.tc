@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Produk Verify All Menu Produk</description>
+   <name>ClickProduk_VerifyAllMenuProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfbb64f5-737f-416b-a7dc-2406c80578a7</testCaseGuid>
+</TestCaseEntity>

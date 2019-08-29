@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 For those selected order, system will closed order and changed order state from 'Placed' to 'Closed'</description>
+   <name>VerifyPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86715205-4b3d-4e3d-8485-c027addeef35</testCaseGuid>
+</TestCaseEntity>

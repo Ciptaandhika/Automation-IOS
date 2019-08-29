@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.Tap Push notification</description>
+   <name>TapOrderBaruPushNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1df63029-4ac5-4c30-a45e-ff9dcd5ff1ac</testCaseGuid>
+</TestCaseEntity>

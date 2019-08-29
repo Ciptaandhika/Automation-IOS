@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4.2 Ensure user can see buyer name</description>
+   <name>VerifyBuyerNameChatDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a79fe50d-31db-4ef5-aa94-7f8740ce68f5</testCaseGuid>
+</TestCaseEntity>

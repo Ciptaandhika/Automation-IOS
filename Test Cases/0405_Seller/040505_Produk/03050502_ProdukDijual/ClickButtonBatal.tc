@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. click button 'Batal'</description>
+   <name>ClickButtonBatal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5eb5ed5-58e0-45f5-bdc9-f54160794f01</testCaseGuid>
+</TestCaseEntity>

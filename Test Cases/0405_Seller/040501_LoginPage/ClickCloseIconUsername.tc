@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click close icon</description>
+   <name>ClickCloseIconUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4346140-fd00-4360-aa9f-5184adb749d8</testCaseGuid>
+</TestCaseEntity>

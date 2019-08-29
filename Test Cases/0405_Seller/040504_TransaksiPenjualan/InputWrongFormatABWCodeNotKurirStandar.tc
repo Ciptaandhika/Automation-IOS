@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>4. Enter AWB Code</description>
+   <name>InputWrongFormatABWCodeNotKurirStandar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>239b9c54-c394-4df0-8eb5-bd40b1c092b3</testCaseGuid>
+</TestCaseEntity>

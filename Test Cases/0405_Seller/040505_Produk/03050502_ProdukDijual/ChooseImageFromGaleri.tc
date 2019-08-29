@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Choose image from galeri</description>
+   <name>ChooseImageFromGaleri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2498b3a2-68a8-4788-a793-8e0c752f5162</testCaseGuid>
+</TestCaseEntity>

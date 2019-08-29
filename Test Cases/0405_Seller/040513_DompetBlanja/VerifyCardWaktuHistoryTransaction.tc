@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Card Waktu</description>
+   <name>VerifyCardWaktuHistoryTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a928e65f-b439-4e62-8400-098d63b517db</testCaseGuid>
+</TestCaseEntity>

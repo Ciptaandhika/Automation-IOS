@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input deskripsi produk</description>
+   <name>InputDeskripsiProdukEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2530a47-cad7-419a-8058-1c0acd260bd0</testCaseGuid>
+</TestCaseEntity>

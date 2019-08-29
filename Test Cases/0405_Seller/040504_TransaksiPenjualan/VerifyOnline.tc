@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Online payment method appear on Order Details</description>
+   <name>VerifyOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e29fcbdf-79d7-44c8-b020-260c6fa5149c</testCaseGuid>
+</TestCaseEntity>

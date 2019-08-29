@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.1 system will display recommendation product and show some product informations, such like : 
+1.1.1 image product
+1.1.2 product name (max. 2 row)
+1.1.3 SKU product
+1.1.4 Harga Jual/Harga Discount, if any
+1.1.5  Stok Product
+1.1.5.1 if ready stock, system will display amount of stock product
+1.1.5.2 if empty, system will display information as 'Stok Habis' with red color
+1.1.6 icon '>', while click system will redirect to edit page
+1.1.7 button 'Turunkan Produk'</description>
+   <name>VerifyProductDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6cd60eb-5fbf-4fe0-a27a-fc7ef27c3806</testCaseGuid>
+</TestCaseEntity>

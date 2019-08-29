@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>system will display 'Konfirmasi Lokasi Penjemputan'</description>
+   <name>VerifyLabelKonfirmasiLokasiPenjemputan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a45a0c36-361e-4a63-b776-ab7b7b469916</testCaseGuid>
+</TestCaseEntity>

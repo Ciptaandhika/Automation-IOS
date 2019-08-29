@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik close icon txtBox email</description>
+   <name>ClickCloseIconEmailRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a21c4460-3fc6-4070-a3c1-b0dd5dbc7dbb</testCaseGuid>
+</TestCaseEntity>
